@@ -5181,7 +5181,7 @@
     "esMX": "Resistencia al rayo: %+d%%",
     "jaJP": "電撃耐性: %+d%%",
     "ptBR": "Resistência Elétrica: %+d%%",
-    "ruRU": "Сопротивл. молнии: %+d%%",
+    "ruRU": "Сопротивление молнии: %+d%%",
     "zhCN": "闪电抗性: %+d%%"
   },
   {
@@ -5198,7 +5198,7 @@
     "esMX": "Resistencia a todo: %+d%%",
     "jaJP": "全耐性: %+d%%",
     "ptBR": "Resistência global: %+d%%",
-    "ruRU": "Ко всем сопротивл.: %+d%%",
+    "ruRU": "Ко всем сопротивлениям: %+d%%",
     "zhCN": "所有抗性: %+d%%"
   },
   {
@@ -5912,7 +5912,7 @@
     "esMX": "Reduce las resistencias máximas ",
     "jaJP": "最大耐性を下げる ",
     "ptBR": "Reduz as resistências máximas ",
-    "ruRU": "Понижает максимальные показатели сопротивления ",
+    "ruRU": "Понижает максимальные показатели сопротивлений ",
     "zhCN": "降低最大抗性"
   },
   {
@@ -6728,7 +6728,7 @@
     "esMX": "Crea una flecha o saeta mágica\nque inflige daño adicional",
     "jaJP": "追加ダメージを与える魔法の矢\nまたはボルトを作り出す",
     "ptBR": "cria uma flecha ou seta mágica\nque causa dano adicional",
-    "ruRU": "Создает магический снаряд,\nкоторый наносит дополнительный урон.",
+    "ruRU": "Создает магический снаряд,\nнаносящий дополнительный урон.",
     "zhCN": "创造出魔法箭矢或弩矢\n造成额外的伤害"
   },
   {
@@ -8292,7 +8292,7 @@
     "esMX": "Pasiva: tienes una probabilidad de esquivar\nun ataque de melé o de proyectil\nmientras corres o caminas",
     "jaJP": "常時発動: 移動中に一定確率で\n近接攻撃や遠距離攻撃を回避する",
     "ptBR": "passivo - você tem uma chance de se esquivar\nde um ataque corpo a corpo ou de projéteis\nao caminhar ou correr",
-    "ruRU": "Пассивное умение. Вы иногда можете уклониться\nот атаки ближнего боя или снаряда,\nкогда идете или бежите.",
+    "ruRU": "Пассивное умение. Вы иногда можете уклониться\nот атаки ближнего боя или снаряда,\nво время бега или ходьбы.",
     "zhCN": "被动 - 在行走或奔跑时\n你有几率躲闪\n近战或远程攻击"
   },
   {
@@ -11998,7 +11998,7 @@
     "esMX": "Invoca una púa de hueso mortífera para empalar a los enemigos",
     "jaJP": "敵を貫く鋭い骨の槍を召喚する",
     "ptBR": "evoca um espeto de osso mortal para empalar os inimigos",
-    "ruRU": "Призывает костяной шип,\nпронзающий врагов.",
+    "ruRU": "Призывает костяное копье,\nпронзающее врагов.",
     "zhCN": "召唤致命的白骨尖刺, 刺穿你的敌人"
   },
   {
@@ -12338,7 +12338,7 @@
     "esMX": "Pasiva: aumenta las resistencias\nde todas las criaturas invocadas",
     "jaJP": "常時発動: 召喚した魔物の\n耐性を向上させる",
     "ptBR": "passivo - aumenta as resistências\nde todas as criaturas evocadas",
-    "ruRU": "Пассивно повышает сопротивление\nпризываемых существ.",
+    "ruRU": "Пассивно повышает сопротивления\nпризываемых существ.",
     "zhCN": "被动 - 提高所有召唤\n生物的抗性"
   },
   {
@@ -12406,7 +12406,7 @@
     "esMX": "Transforma un objeto metálico en un gólem que\nobtiene las propiedades del objeto",
     "jaJP": "金属製のアイテムをゴーレムに変異させる\nゴーレムは媒体となるアイテムの性質を受け継ぐ",
     "ptBR": "transforma um item metálico em um golem que ganha\nas propriedades do item",
-    "ruRU": "Превращает металлический предмет в голема.\nкоторый получает свойства этого предмета.",
+    "ruRU": "Превращает металлический предмет в голема.\nПризванный голем получает свойства этого предмета.",
     "zhCN": "将一个金属物品变为魔像\n获得物品上的属性"
   },
   {
@@ -12440,7 +12440,7 @@
     "esMX": "Reducción de resistencia",
     "jaJP": "耐性低下",
     "ptBR": "Diminuir Resistência",
-    "ruRU": "Снижение сопротивления",
+    "ruRU": "Снижение сопротивлений",
     "zhCN": "降低抗性"
   },
   {
@@ -12474,7 +12474,7 @@
     "esMX": "Maldice a un enemigo y hace que reciba más daño de todos los ataques mágicos\nReduce las resistencias de los monstruos\nReduce las resistencias máximas de los jugadores hostiles",
     "jaJP": "呪いをかけられた敵は全種類の魔法攻撃で受けるダメージが増加する\nモンスターの耐性を下げる\n敵対プレイヤーの最大耐性を下げる",
     "ptBR": "amaldiçoa um inimigo para que receba mais dano de todos os ataques mágicos\nreduz as resistências de monstros\nreduz as resistências máximas de jogadores hostis",
-    "ruRU": "Проклинает врага, увеличивая\nполучаемый им магический урон.\nСнижает сопротивление монстров.\nСнижает максимальное сопротивление\nвраждебных игроков.",
+    "ruRU": "Проклинает врагов, увеличивая\nполучаемый ими магический урон.\nСнижает сопротивления монстров.\nСнижает максимальные сопротивления\nвраждебных игроков.",
     "zhCN": "诅咒一名敌人, 提高它受到的魔法伤害\n降低怪物的抗性\n降低敌对玩家的抗性最大值\n"
   },
   {
@@ -12491,7 +12491,7 @@
     "esMX": "Reducción de resistencia",
     "jaJP": "耐性低下",
     "ptBR": "Diminuir Resistência",
-    "ruRU": "Снижение сопротивления",
+    "ruRU": "Снижение сопротивлений",
     "zhCN": "降低抗性"
   },
   {
@@ -28709,7 +28709,7 @@
     "esMX": "Reduce la resistencia ",
     "jaJP": "耐性低下 ",
     "ptBR": "Reduz a resistência ",
-    "ruRU": "Снижает сопротивление ",
+    "ruRU": "Снижает сопротивления ",
     "zhCN": "降低抗性"
   },
   {
@@ -32602,7 +32602,7 @@
     "esMX": "Resistencia temporal a todo",
     "jaJP": "一時的に全耐性が上がる",
     "ptBR": "resistência global temporária",
-    "ruRU": "Временно повышает сопротивление всем видам урона.",
+    "ruRU": "Временно повышает все сопротивления.",
     "zhCN": "暂时抵抗所有"
   },
   {
@@ -33894,7 +33894,7 @@
     "esMX": "Reduce la resistencia ",
     "jaJP": "耐性低下 ",
     "ptBR": "Reduz a resistência ",
-    "ruRU": "Снижает сопротивление ",
+    "ruRU": "Снижает сопротивления ",
     "zhCN": "降低抗性"
   },
   {
