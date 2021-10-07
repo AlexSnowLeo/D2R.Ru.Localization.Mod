@@ -3,7 +3,7 @@ Diablo 2 Resurrectred RU localization mod
 
 Для установки мода в игре:
 
-- Скачайте релиз мода
+- Скачайте релиз мода: https://github.com/AlexSnowLeo/D2R.Ru.Localization.Mod/releases
 - Скопируйте его в папку "...Games\Diablo II Resurrected\mods\Ru.Localization" (имя папки мода должно совпадать с архивом .mpq)
 - Откройте настройки игры и пропишите в параметрах командной строки: "-mod Ru.Localization"
 
