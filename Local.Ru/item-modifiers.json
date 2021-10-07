@@ -3413,7 +3413,7 @@
     "esMX": "%+d a las habilidades de Pasivas y magia",
     "jaJP": "〈常時発動/魔法〉スキル向上（%+d）",
     "ptBR": "%+d para habilidades Passivas e Magia",
-    "ruRU": "%+d к пассивным и магическим умениям",
+    "ruRU": "%+d к пассивным и магическим навыкам",
     "zhCN": "%+d 被动和魔法技能"
   },
   {
@@ -3549,7 +3549,7 @@
     "esMX": "%+d a las habilidades de Combate",
     "jaJP": "〈戦闘〉スキル向上（%+d）",
     "ptBR": "%+d para Habilidades de Combate",
-    "ruRU": "%+d к боевым умениям",
+    "ruRU": "%+d к боевым навыкам",
     "zhCN": "%+d 战斗技能"
   },
   {
@@ -3566,7 +3566,7 @@
     "esMX": "%+d a los Dominios",
     "jaJP": "〈武器術〉スキル向上（%+d）",
     "ptBR": "%+d para Maestrias",
-    "ruRU": "%+d к умениям владения оружием",
+    "ruRU": "%+d к боевому мастерству",
     "zhCN": "%+d 精通类技能"
   },
   {
@@ -3583,7 +3583,7 @@
     "esMX": "%+d a las habilidades de Frío",
     "jaJP": "〈冷気〉スキル向上（%+d）",
     "ptBR": "%+d para habilidades Gelo",
-    "ruRU": "%+d к умениям льда",
+    "ruRU": "%+d к магии льда",
     "zhCN": "%+d 冰系法术"
   },
   {
@@ -3600,7 +3600,7 @@
     "esMX": "%+d a las habilidades de Rayo",
     "jaJP": "〈電撃〉スキル向上（%+d）",
     "ptBR": "%+d para habilidades Eletricidade",
-    "ruRU": "%+d к умениям молнии",
+    "ruRU": "%+d к магии молнии",
     "zhCN": "%+d 雷系法术"
   },
   {
@@ -3617,7 +3617,7 @@
     "esMX": "%+d a las habilidades de Fuego",
     "jaJP": "〈火炎〉スキル向上（%+d）",
     "ptBR": "%+d para habilidades Fogo",
-    "ruRU": "%+d к умениям огня",
+    "ruRU": "%+d к магии огня",
     "zhCN": "%+d 火系法术"
   },
   {
@@ -3855,7 +3855,7 @@
     "esMX": "Aura de %1 de nivel %0 al equiparse",
     "jaJP": "装備時にオーラ〈%1〉（レベル%0）を発動",
     "ptBR": "Aura %1 de nível %0 quando equipado",
-    "ruRU": "При надевании дает ауру «%1» %0-го уровня",
+    "ruRU": "При надевании дает ауру «%1» %0 уровня",
     "zhCN": "装备时获得%d级%s光环"
   },
   {
@@ -4161,7 +4161,7 @@
     "esMX": "%0%% de probabilidad de lanzar %2 nivel %1 cuando mueres",
     "jaJP": "死亡時に%0%%の確率で〈%2〉（レベル%1）を発動",
     "ptBR": "%0%% de chance de lançar %2 de nível %1 quando você morre",
-    "ruRU": "%0%% шанс применить умение «%2» %1-го уровня после смерти",
+    "ruRU": "%0%% шанс применить умение «%2» %1 уровня после смерти",
     "zhCN": "%d%% 几率在死亡时施放%d级%s"
   },
   {
@@ -4178,7 +4178,7 @@
     "esMX": "%0%% de probabilidad de lanzar %2 nivel %1 al subir de nivel",
     "jaJP": "レベルアップ時に%0%%の確率で〈%2〉（レベル%1）を発動",
     "ptBR": "%0%% de chance de lançar %2 de nível %1 quando você sobe de nível",
-    "ruRU": "%0%% шанс применить умение «%2» %1-го уровня при достижении нового уровня",
+    "ruRU": "%0%% шанс применить умение «%2» %1 уровня при достижении нового уровня",
     "zhCN": "%d%% 几率在升级时施放%d级%s"
   },
   {
@@ -4195,7 +4195,7 @@
     "esMX": "%0%% de probabilidad de lanzar %2 nivel %1 al matar un enemigo",
     "jaJP": "敵を倒すと%0%%の確率で〈%2〉（レベル%1）を発動",
     "ptBR": "%0%% de chance de lançar %2 de nível %1 quando você abate um inimigo",
-    "ruRU": "%0%% шанс применить умение «%2» %1-го уровня при убийстве",
+    "ruRU": "%0%% шанс применить умение «%2» %1 уровня при убийстве",
     "zhCN": "%d%% 几率在消灭一名敌人时施放%d级%s"
   },
   {
@@ -4671,7 +4671,7 @@
     "esMX": " a las habilidades de Invocación",
     "jaJP": " 〈召喚〉スキル +",
     "ptBR": " para habilidades Evocação",
-    "ruRU": " к уровню умений «Прислужники»",
+    "ruRU": " к уровню умений «Призыв»",
     "zhCN": "至召唤术"
   },
   {
@@ -4756,13 +4756,11 @@
     "esMX": " a las habilidades de Dominios",
     "jaJP": " 〈武器術〉スキル +",
     "ptBR": " para habilidades Maestrias",
-    "ruRU": " к умениям владения оружием",
+    "ruRU": " к Боевому мастерству",
     "zhCN": "至精通类技能"
   },
   {
-    "id": 21224,
-    "Key": "ModStre8t",
-    "enUS": " to Cold Skills",
+
     "zhTW": "冰寒技能",
     "deDE": " zu Kältefertigkeiten",
     "esES": "a los hechizos de frío",
@@ -5113,7 +5111,7 @@
     "esMX": "Lanzamiento nivel %d de",
     "jaJP": "発動: レベル%d",
     "ptBR": "Lança habilidade de nível %d",
-    "ruRU": "Применяет %d-го уровня",
+    "ruRU": "Применяет %d уровня",
     "zhCN": "施放%d级"
   },
   {
@@ -5232,7 +5230,7 @@
     "esMX": "%1 nivel %0 (cargas: %2/%3)",
     "jaJP": "レベル%0〈%1〉（使用可能数 %2/%3）",
     "ptBR": "%1 Nível %0 (%2/%3 cargas)",
-    "ruRU": "«%1» %0-го уровня (%2/%3 зарядов)",
+    "ruRU": "«%1» %0 уровня (%2/%3 зарядов)",
     "zhCN": "%d级%s (%d/%d 次充能)"
   },
   {
@@ -5317,7 +5315,7 @@
     "esMX": "[ms]Maldecido[fs]Maldecida[mp]Maldecidos[fp]Maldecidas",
     "jaJP": "呪い",
     "ptBR": "Amaldiçoado",
-    "ruRU": "[ms]отверженный[fs]отверженная[ns]отверженное[pl]отверженные",
+    "ruRU": "[ms]проклятый[fs]проклятая[ns]проклятое[pl]проклятые",
     "zhCN": "被诅咒"
   },
   {
@@ -5436,7 +5434,7 @@
     "esMX": "Pergamino de resistencia",
     "jaJP": "耐性の巻物",
     "ptBR": "Pergaminho de Resistência",
-    "ruRU": "Свиток сопротивления",
+    "ruRU": "Свиток сопротивлений",
     "zhCN": "抗性卷轴"
   },
   {
@@ -5470,7 +5468,7 @@
     "esMX": "%0%% de probabilidad de lanzar %2 nivel %1 al atacar",
     "jaJP": "攻撃時に%0%%の確率で〈%2〉（レベル%1）を発動",
     "ptBR": "%0%% de chance de lançar %2 de nível %1 ao atacar",
-    "ruRU": "%0%% шанс применить умение «%2» %1-го уровня при атаке",
+    "ruRU": "%0%% шанс применить умение «%2» %1 уровня при атаке",
     "zhCN": "%d%% 几率在攻击时施放%d级%s"
   },
   {
@@ -5487,7 +5485,7 @@
     "esMX": "%0%% de probabilidad de lanzar %2 nivel %1 al golpear",
     "jaJP": "命中時に%0%%の確率で〈%2〉（レベル%1）を発動",
     "ptBR": "%0%% de chance de lançar %2 de nível %1 ao atingir um inimigo",
-    "ruRU": "%0%% шанс применить умение «%2» %1-го уровня при ударе",
+    "ruRU": "%0%% шанс применить умение «%2» %1 уровня при ударе",
     "zhCN": "%d%% 几率在击中时施放%d级%s"
   },
   {
@@ -5504,7 +5502,7 @@
     "esMX": "%0%% de probabilidad de lanzar %2 nivel %1 al recibir un golpe",
     "jaJP": "攻撃を受けると%0%%の確率で〈%2〉（レベル%1）を発動",
     "ptBR": "%0%% de chance de lançar %2 de nível %1 ao ser atingido",
-    "ruRU": "%0%% шанс применить умение «%2» %1-го уровня при получении урона",
+    "ruRU": "%0%% шанс применить умение «%2» %1 уровня при получении урона",
     "zhCN": "%d%% 几率在被击中时施放%d级%s"
   },
   {
