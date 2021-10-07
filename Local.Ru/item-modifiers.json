@@ -1322,7 +1322,7 @@
     "esMX": "%d%% más de probabilidad de bloqueo",
     "jaJP": "ブロック確率上昇（%d%%）",
     "ptBR": "%d%% de chance adicional de bloqueio",
-    "ruRU": "Вероятность %d%% заблокировать удар",
+    "ruRU": "+%d%% к шансу блокирования",
     "zhCN": "%d%% 格挡几率提高"
   },
   {
@@ -1424,7 +1424,7 @@
     "esMX": "%d%% de probabilidad de abrir heridas",
     "jaJP": "出血状態を付与（%d%%の確率）",
     "ptBR": "%d%% de chance de Feridas Abertas",
-    "ruRU": "Вероятность %d%% нанести открытую рану",
+    "ruRU": "%d%% шанс нанести открытую рану",
     "zhCN": "%d%% 几率造成开创性伤口"
   },
   {
@@ -1543,7 +1543,7 @@
     "esMX": "Transforma un %d%% del daño recibido en maná",
     "jaJP": "受けたダメージの%d%%をマナに変換",
     "ptBR": "%d%% do dano recebido transforma-se em mana",
-    "ruRU": "%d%% урона приходится на ману",
+    "ruRU": "%d%% урона наносится по мане",
     "zhCN": "%d%% 受到的伤害转换为法力"
   },
   {
@@ -1832,7 +1832,7 @@
     "esMX": "Rápida recuperación por golpe",
     "jaJP": "ヒットリカバリー速度上昇",
     "ptBR": "Recuperação de golpe rápida",
-    "ruRU": "Быстрое восстановление от ударов",
+    "ruRU": "Быстрое восстановление после ударов",
     "zhCN": "快速打击回复"
   },
   {
@@ -1849,7 +1849,7 @@
     "esMX": "%+d%% de velocidad a recuperación por golpe",
     "jaJP": "ヒットリカバリー速度（%+d%%）",
     "ptBR": "Recuperação de golpe %+d%% mais rápida",
-    "ruRU": "%+d%% к ускоренному восстановлению от удара",
+    "ruRU": "%+d%% к ускоренному восстановлению после удара",
     "zhCN": "%+d%% 更快速打击回复"
   },
   {
@@ -1866,7 +1866,7 @@
     "esMX": "Recuperación por golpe más rápida",
     "jaJP": "ヒットリカバリー速度上昇（大）",
     "ptBR": "Recuperação de golpe mais rápida",
-    "ruRU": "Очень быстрое восстановление от ударов",
+    "ruRU": "Очень быстрое восстановление после ударов",
     "zhCN": "最快速打击回复"
   },
   {
@@ -2070,7 +2070,7 @@
     "esMX": "%d%% de probabilidad de golpe aplastante",
     "jaJP": "クラッシング・ブロー（%d%%の確率）",
     "ptBR": "%d%% de chance de Golpe Esmagador",
-    "ruRU": "Вероятность %d%% нанести сокрушительный удар",
+    "ruRU": "%d%% шанс нанести сокрушительный удар",
     "zhCN": "%d%% 几率粉碎打击"
   },
   {
@@ -2291,7 +2291,7 @@
     "esMX": "%d%% de golpe letal",
     "jaJP": "デッドリー・ストライク（%d%%）",
     "ptBR": "%d%% de Golpe Mortal",
-    "ruRU": "Вероятность %d%% нанести смертельный удар",
+    "ruRU": "%d%% шанс нанести смертельный удар",
     "zhCN": "%d%% 致死打击"
   },
   {
@@ -4008,7 +4008,7 @@
     "esMX": "%0%% de reanimar como: %1",
     "jaJP": "〈%1〉として復活（確率%0%%）",
     "ptBR": "%0%% de chance de reanimar como: %1",
-    "ruRU": "С вероятностью %0%% возрождает как: %1",
+    "ruRU": "С шансом %0%% возрождает как: %1",
     "zhCN": "%0%% 复活：%1"
   },
   {
@@ -4161,7 +4161,7 @@
     "esMX": "%0%% de probabilidad de lanzar %2 nivel %1 cuando mueres",
     "jaJP": "死亡時に%0%%の確率で〈%2〉（レベル%1）を発動",
     "ptBR": "%0%% de chance de lançar %2 de nível %1 quando você morre",
-    "ruRU": "Вероятность %0%% применить умение «%2» %1-го уровня после смерти",
+    "ruRU": "%0%% шанс применить умение «%2» %1-го уровня после смерти",
     "zhCN": "%d%% 几率在死亡时施放%d级%s"
   },
   {
@@ -4178,7 +4178,7 @@
     "esMX": "%0%% de probabilidad de lanzar %2 nivel %1 al subir de nivel",
     "jaJP": "レベルアップ時に%0%%の確率で〈%2〉（レベル%1）を発動",
     "ptBR": "%0%% de chance de lançar %2 de nível %1 quando você sobe de nível",
-    "ruRU": "Вероятность %0%% применить умение «%2» %1-го уровня при достижении нового уровня",
+    "ruRU": "%0%% шанс применить умение «%2» %1-го уровня при достижении нового уровня",
     "zhCN": "%d%% 几率在升级时施放%d级%s"
   },
   {
@@ -4195,7 +4195,7 @@
     "esMX": "%0%% de probabilidad de lanzar %2 nivel %1 al matar un enemigo",
     "jaJP": "敵を倒すと%0%%の確率で〈%2〉（レベル%1）を発動",
     "ptBR": "%0%% de chance de lançar %2 de nível %1 quando você abate um inimigo",
-    "ruRU": "Вероятность %0%% применить умение «%2» %1-го уровня при убийстве",
+    "ruRU": "%0%% шанс применить умение «%2» %1-го уровня при убийстве",
     "zhCN": "%d%% 几率在消灭一名敌人时施放%d级%s"
   },
   {
@@ -4229,7 +4229,7 @@
     "esMX": "Probabilidad de bloqueo: %d%%",
     "jaJP": "ブロック確率: %d%%",
     "ptBR": "Chance de bloqueio: %d%%",
-    "ruRU": "Вероятность блока: %d%%",
+    "ruRU": "Шанс блока: %d%%",
     "zhCN": "格挡几率: %d%%"
   },
   {
@@ -4246,7 +4246,7 @@
     "esMX": "%d%% de oro adicional de monstruos",
     "jaJP": "モンスターからの獲得ゴールド（+%d%%）",
     "ptBR": "%d%% de ouro adicional de monstros",
-    "ruRU": "+%d%% к золоту за убийство монстров",
+    "ruRU": "+%d%% золота за убийство монстров",
     "zhCN": "%d%% 怪物额外掉落金币"
   },
   {
@@ -4263,7 +4263,7 @@
     "esMX": "%d%% más de probabilidad de obtener objetos mágicos",
     "jaJP": "マジックアイテムドロップ率（+%d%%）",
     "ptBR": "%d%% de chance adicional de obter itens mágicos",
-    "ruRU": "+%d%% к вероятности найти магический предмет",
+    "ruRU": "+%d%% к шансу найти магический предмет",
     "zhCN": "%d%% 额外几率获得魔法物品"
   },
   {
@@ -4280,7 +4280,7 @@
     "esMX": "%d%% monstruo huye al ser golpeado",
     "jaJP": "攻撃命中でモンスターが逃げ出す（%d%%の確率）",
     "ptBR": "Acerto causa fuga do monstro %d%%",
-    "ruRU": "Вероятность %d%% обратить монстра в бегство при ударе",
+    "ruRU": "%d%% шанс обратить монстра в бегство при ударе",
     "zhCN": "%d%% 几率命中使怪物逃跑"
   },
   {
@@ -5419,7 +5419,7 @@
     "esMX": "% de probabilidad de lanzar",
     "jaJP": "%%の確率で発動:",
     "ptBR": "Percentual de chance de lançar",
-    "ruRU": "Вероятность применить",
+    "ruRU": "Шанс применить",
     "zhCN": "%施法几率"
   },
   {
@@ -5470,7 +5470,7 @@
     "esMX": "%0%% de probabilidad de lanzar %2 nivel %1 al atacar",
     "jaJP": "攻撃時に%0%%の確率で〈%2〉（レベル%1）を発動",
     "ptBR": "%0%% de chance de lançar %2 de nível %1 ao atacar",
-    "ruRU": "Вероятность %0%% применить умение «%2» %1-го уровня при атаке",
+    "ruRU": "%0%% шанс применить умение «%2» %1-го уровня при атаке",
     "zhCN": "%d%% 几率在攻击时施放%d级%s"
   },
   {
@@ -5487,7 +5487,7 @@
     "esMX": "%0%% de probabilidad de lanzar %2 nivel %1 al golpear",
     "jaJP": "命中時に%0%%の確率で〈%2〉（レベル%1）を発動",
     "ptBR": "%0%% de chance de lançar %2 de nível %1 ao atingir um inimigo",
-    "ruRU": "Вероятность %0%% применить умение «%2» %1-го уровня при ударе",
+    "ruRU": "%0%% шанс применить умение «%2» %1-го уровня при ударе",
     "zhCN": "%d%% 几率在击中时施放%d级%s"
   },
   {
@@ -5504,7 +5504,7 @@
     "esMX": "%0%% de probabilidad de lanzar %2 nivel %1 al recibir un golpe",
     "jaJP": "攻撃を受けると%0%%の確率で〈%2〉（レベル%1）を発動",
     "ptBR": "%0%% de chance de lançar %2 de nível %1 ao ser atingido",
-    "ruRU": "Вероятность %0%% применить умение «%2» %1-го уровня при получении урона",
+    "ruRU": "%0%% шанс применить умение «%2» %1-го уровня при получении урона",
     "zhCN": "%d%% 几率在被击中时施放%d级%s"
   },
   {

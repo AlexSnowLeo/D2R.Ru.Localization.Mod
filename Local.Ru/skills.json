@@ -4705,7 +4705,7 @@
     "esMX": "%d%% de probabilidad",
     "jaJP": "確率%d%%",
     "ptBR": "%d%% de chance",
-    "ruRU": "Вероятность: %d%%",
+    "ruRU": "%d%% шанс",
     "zhCN": "%d%%几率"
   },
   {
@@ -5368,7 +5368,7 @@
     "esMX": "Probabilidad de perder durabilidad: %d%%",
     "jaJP": "耐久力が低下する確率: %d%%",
     "ptBR": "Chance de perder durabilidade: %d%%",
-    "ruRU": "Вероятность потери прочности: %d%%",
+    "ruRU": "Шанс потери прочности: %d%%",
     "zhCN": "损失耐久度的几率: %d%%"
   },
   {
@@ -5555,7 +5555,7 @@
     "esMX": "Probabilidad de que no se pueda interrumpir: %d%%",
     "jaJP": "行動を中断されない確率: %d%%",
     "ptBR": "Chance de ataque sem interrupção: %d%%",
-    "ruRU": "Вероятность невозможности прерывания: %d%%",
+    "ruRU": "Шанс невозможности прерывания: %d%%",
     "zhCN": "不被打断的几率: %d%%"
   },
   {
@@ -5929,7 +5929,7 @@
     "esMX": "Probabilidad de convertir: %d%%",
     "jaJP": "改心の確率: %d%%",
     "ptBR": "Chance de converter: %d%%",
-    "ruRU": "Вероятность обращения: %d%%",
+    "ruRU": "Шанс обращения: %d%%",
     "zhCN": "转化几率: %d%%"
   },
   {
@@ -6099,7 +6099,7 @@
     "esMX": "Probabilidad de redimir el alma: %d%%",
     "jaJP": "魂を救済する確率: %d%%",
     "ptBR": "Chance de redimir alma: %d%%",
-    "ruRU": "Вероятность спасения души: %d%%",
+    "ruRU": "Шанс спасения души: %d%%",
     "zhCN": "救赎灵魂几率: %d%%"
   },
   {
@@ -6116,7 +6116,7 @@
     "esMX": "Bloqueo exitoso: %+d%%",
     "jaJP": "ブロックの成功率: %+d%%",
     "ptBR": "Sucesso de bloqueio: %+d%%",
-    "ruRU": "Вероятность блокирования: %+d%%",
+    "ruRU": "Шанс успешного блокирования: %+d%%",
     "zhCN": "成功格挡: %+d%%"
   },
   {
@@ -12950,7 +12950,7 @@
     "esMX": "Cuando está activa, el aura aumenta\nel daño que infligen tú y tu equipo",
     "jaJP": "発動すると、自身と味方の攻撃力を\n上昇させるオーラを発する",
     "ptBR": "quando ativa, a aura aumenta o dano\ncausado por você e seu grupo",
-    "ruRU": "Пока эта аура активна, увеличивает урон,\nнаносимый вами и вашей группой.",
+    "ruRU": "Пока эта аура активна, она увеличивает урон,\nнаносимый вами и вашей группой.",
     "zhCN": "激活时, 这个光环会提高你和\n小队成员的伤害"
   },
   {
@@ -13069,7 +13069,7 @@
     "esMX": "Aura: protege contra el daño de fuego",
     "jaJP": "オーラ: 火炎ダメージを軽減する",
     "ptBR": "aura - protege contra dano ígneo",
-    "ruRU": "Аура. Уменьшает получаемый урон от огня.",
+    "ruRU": "Аура. Снижает получаемый урон от огня.",
     "zhCN": "光环 - 防御火焰伤害"
   },
   {
@@ -13086,7 +13086,7 @@
     "esMX": "Cuando está activa, el aura reduce el daño\nde fuego que reciben tú y tu equipo",
     "jaJP": "発動すると、自身と味方が受ける火炎ダメージを\n軽減させるオーラを発する",
     "ptBR": "quando ativa, a aura reduz o dano ígneo\nrecebido por você e seu grupo",
-    "ruRU": "Пока эта аура активна, снижает получаемый\nвами и вашей группой урон от огня.",
+    "ruRU": "Пока эта аура активна, она снижает получаемый\nвами и вашей группой урон от огня.",
     "zhCN": "激活时, 这个光环会降低你和\n小队成员受到的火焰伤害"
   },
   {
@@ -13460,7 +13460,7 @@
     "esMX": "Fervor",
     "jaJP": "猛攻",
     "ptBR": "Zelo",
-    "ruRU": "Истовость",
+    "ruRU": "Рвение",
     "zhCN": "热忱"
   },
   {
@@ -13511,7 +13511,7 @@
     "esMX": "Fervor",
     "jaJP": "猛攻",
     "ptBR": "Zelo",
-    "ruRU": "Истовость",
+    "ruRU": "Рвение",
     "zhCN": "热忱"
   },
   {
@@ -13545,7 +13545,7 @@
     "esMX": "Carga hacia un objetivo y lo ataca",
     "jaJP": "ターゲットに向けて突撃する",
     "ptBR": "ataca o alvo com uma investida",
-    "ruRU": "Совершает рывок и атакует цель.",
+    "ruRU": "Рывок с атакой цели.",
     "zhCN": "冲锋并攻击目标"
   },
   {
@@ -13630,7 +13630,7 @@
     "esMX": "Cuando está activa, el aura aumenta el índice\nde ataque para ti y tu equipo",
     "jaJP": "発動すると、自身と味方の命中率を\n上昇させるオーラを発する",
     "ptBR": "quando ativa, a aura aumenta a taxa de ataque\npara você e seu grupo",
-    "ruRU": "Пока эта аура активна, повышает\nрейтинг атаки вам и вашей группе.",
+    "ruRU": "Пока эта аура активна, она повышает\nрейтинг атаки вам и вашей группе.",
     "zhCN": "激活时, 这个光环会提高你和\n小队成员的命中值"
   },
   {
@@ -13698,7 +13698,7 @@
     "esMX": "Cuando está activa, el aura reduce la\nduración de los efectos de\nveneno y maldición aplicados a ti y a tu equipo",
     "jaJP": "発動すると、自身と味方が受けた\n毒と呪いの効果時間を\n減少させるオーラを発する",
     "ptBR": "quando ativa, a aura reduz a duração\nde veneno ou maldição\npara você e seu grupo",
-    "ruRU": "Пока эта аура активна, сокращает\nдлительность эффектов яда и проклятий,\nдействующих на вас и вашу группу.",
+    "ruRU": "Пока эта аура активна, она сокращает\nдлительность эффектов яда и проклятий,\nдействующих на вас и вашу группу.",
     "zhCN": "激活时, 这个光环降低你和\n小队成员受到的毒素和诅咒\n效果的持续时间"
   },
   {
@@ -13766,7 +13766,7 @@
     "esMX": "Cuando está activa, el aura reduce el daño\nde rayo que reciben tú y tu equipo",
     "jaJP": "発動すると、自身と味方が受ける電撃ダメージを\n軽減させるオーラを発する",
     "ptBR": "quando ativa, a aura reduz o dano elétrico\nrecebido por você e seu grupo",
-    "ruRU": "Пока эта аура активна, снижает получаемый\nвами и вашей группой урон от молнии.",
+    "ruRU": "Пока эта аура активна, она снижает получаемый\nвами и вашей группой урон от молнии.",
     "zhCN": "激活时, 这个光环会降低你和\n小队成员受到的闪电伤害"
   },
   {
@@ -13970,7 +13970,7 @@
     "esMX": "Cuando está activa, el aura aumenta el daño y reduce la probabilidad\nde que tus ataques y los de tu equipo sean interrumpidos ",
     "jaJP": "発動すると、自身と味方の攻撃力と攻撃を中断されない確率を\n上昇させるオーラを発する ",
     "ptBR": "quando ativa, a aura aumenta o dano e reduz a chance\nde interrupção do ataque para você e seu grupo ",
-    "ruRU": "Пока эта аура активна, увеличивает урон и снижает вероятность\nтого, что применение умений будет прервано, для вас и вашей группы.",
+    "ruRU": "Пока эта аура активна, она увеличивает урон и снижает шанс\n прерывания умений для вас и вашей группы.",
     "zhCN": "激活时, 这个光环会提高你和\n小队成员的伤害\n并降低攻击被打断的几率"
   },
   {
@@ -14038,7 +14038,7 @@
     "esMX": "Cuando está activa, el aura congela a los monstruos cercanos\nAgrega daño de frío a tus ataques",
     "jaJP": "発動すると、近くの敵を凍結させ、自身の物理攻撃に\n冷気ダメージを追加するオーラを発する",
     "ptBR": "quando ativa, a aura congela monstros próximos\nadiciona dano gélido ao ataque",
-    "ruRU": "Пока эта аура активна,  замораживает монстров вокруг вас. Атаки наносят\nдополнительный урон от льда.",
+    "ruRU": "Пока эта аура активна,  она замораживает монстров вокруг вас. Атаки наносят\nдополнительный урон от льда.",
     "zhCN": "激活时, 这个光环会冻结怪物\n你的攻击附加冰霜伤害"
   },
   {
@@ -14106,7 +14106,7 @@
     "esMX": "Cuando está activa, el aura aumenta el índice de recuperación de vigor,\nel vigor máximo y la velocidad de movimiento para ti y tu equipo",
     "jaJP": "発動すると、自身と味方のスタミナ回復量、スタミナ最大値、\n移動速度を増加させるオーラを発する",
     "ptBR": "quando ativa, a aura aumenta a taxa de recuperação de vigor, o total de vigor\ne a velocidade de movimento para você e seu grupo",
-    "ruRU": "Пока эта аура активна, ускоряет восполнение\nи увеличивает максимальный запас выносливости,\nа также скорость передвижения вам и вашей группе.",
+    "ruRU": "Пока эта аура активна, она ускоряет восполнение\nи увеличивает максимальный запас выносливости,\nа также скорость передвижения вам и вашей группе.",
     "zhCN": "激活时, 这个光环会提高你和\n小队成员的耐力上限, 耐力回复速度\n以及移动的速度\n"
   },
   {
@@ -14582,7 +14582,7 @@
     "esMX": "Cuando está activa, el aura aumenta la velocidad de ataque\ny el índice de ataque para ti y tu equipo",
     "jaJP": "発動すると、自身と味方の攻撃速度と\n命中率を上昇させるオーラを発する",
     "ptBR": "quanto ativa, a aura aumenta a velocidade de ataque\ne a taxa de ataque para você e seu grupo",
-    "ruRU": "Аура. Повышает скорость атаки\nи рейтинг атаки для вам вашей группе.",
+    "ruRU": "Аура. Повышает скорость атаки\nи рейтинг атаки вам и вашей группе.",
     "zhCN": "激活时, 这个光环会提高你和\n小队成员的攻击速度和命中值"
   },
   {
@@ -14650,7 +14650,7 @@
     "esMX": "Cuando está activa, el aura reduce la defensa\ny las resistencias de los enemigos cercanos",
     "jaJP": "発動すると、近くの敵の防御力と\n耐性を低下させるオーラを発する",
     "ptBR": "quando ativa, a aura reduz as defesas\ne resistências de inimigos próximos",
-    "ruRU": "Пока эта аура активна, ослабляет защиту\nи сопротивление врагов вокруг вас.",
+    "ruRU": "Пока эта аура активна, она ослабляет защиту\nи сопротивление врагов вокруг вас.",
     "zhCN": "激活时, 这个光环会降低附近\n敌人的防御值和抗性"
   },
   {
@@ -15262,7 +15262,7 @@
     "esMX": "Saltas por los aires y haces retroceder\na los enemigos cercanos cuando aterrizas",
     "jaJP": "空高くジャンプし、着地時の衝撃で\n近くの敵を吹き飛ばす",
     "ptBR": "um salto que repele\ninimigos próximos ao aterrissar",
-    "ruRU": "Подпрыгивает и отбрасывает врагов\nвокруг себя при приземлении.",
+    "ruRU": "Подпрыгивает и при приземлении\nотбрасывает врагов вокруг себя.",
     "zhCN": "跳向空中, 并在落地时\n击退附近的敌人"
   },
   {
@@ -15789,7 +15789,7 @@
     "esMX": "Arroja dos armas a la vez",
     "jaJP": "一度に2つの武器を投げる",
     "ptBR": "arremessa duas armas ao mesmo tempo",
-    "ruRU": "Бросок оружия в обеих руках.",
+    "ruRU": "Бросок оружия обеими руками.",
     "zhCN": "同时投掷两把武器"
   },
   {
@@ -15806,7 +15806,7 @@
     "esMX": "Te permite arrojar dos armas\narrojadizas diferentes al mismo tiempo",
     "jaJP": "両手に装備した投擲武器を同時に投げる",
     "ptBR": "permite arremessar duas armas\ndiferentes ao mesmo tempo",
-    "ruRU": "Позволяет атаковать метательным\nоружием в обеих руках.",
+    "ruRU": "Позволяет атаковать метательным\nоружием обеими руками.",
     "zhCN": "允许你同时投掷\n两把不同的武器"
   },
   {
@@ -16010,7 +16010,7 @@
     "esMX": "Salta hacia un objetivo enemigo y lo ataca\ncon un movimiento rápido",
     "jaJP": "敵に向かってジャンプし、\n着地時に素早い一撃を加える",
     "ptBR": "salta até o alvo e ataca\nem uma sequência rápida",
-    "ruRU": "Прыгает к цели и атакует ее.",
+    "ruRU": "Прыгает к цели\nи стремительно атакует ее.",
     "zhCN": "发动迅捷的突袭\n跳向目标敌人进行攻击"
   },
   {
@@ -16248,7 +16248,7 @@
     "esMX": "Un doble impacto exitoso aumenta la velocidad",
     "jaJP": "攻撃が命中すると攻撃速度が上昇する",
     "ptBR": "acerto com golpe duplo aumenta a velocidade",
-    "ruRU": "Удар оружием в обеих руках, при попадании повышающий скорость.",
+    "ruRU": "Удар оружием в обеих руках, повышающий скорость при попадании.",
     "zhCN": "成功地挥舞两把武器击中时提高速度"
   },
   {
@@ -20056,7 +20056,7 @@
     "esMX": "Crea un campo electrificado que reduce la vida\nde todos los enemigos cercanos",
     "jaJP": "放電を発生させて近くにいる\n敵全員のライフを減少させる",
     "ptBR": "cria um campo elétrico que reduz os pontos de vida\nde todos os inimigos próximos",
-    "ruRU": "Создает электрическое поле, которое\nуменьшает здоровье врагов вокруг вас.",
+    "ruRU": "Создает электрическое поле, уменьшающее\nздоровье врагов вокруг вас.",
     "zhCN": "创造一个电能力场\n降低附近所有敌人的生命"
   },
   {
@@ -21484,7 +21484,7 @@
     "esMX": "Pasiva: aumenta el daño infligido por tus hechizos de rayo",
     "jaJP": "常時発動: 電撃魔法で与えられるダメージ量が増加する",
     "ptBR": "passivo - aumenta todo o dano causado por seus feitiços elétricos",
-    "ruRU": "Пассивно увеличивает урон от магии молнии.",
+    "ruRU": "Пассивно увеличивает урон от умений молнии.",
     "zhCN": "被动 - 提高你的所有闪电法术\n造成的伤害"
   },
   {
@@ -25224,7 +25224,7 @@
     "esMX": "Cuando está activa, el aura genera pulsos de\nelectricidad que dañan a los enemigos cercanos\nAgrega daño de rayo a tus ataques",
     "jaJP": "発動すると、近くの敵に電撃を放って\nダメージを与えるオーラを発する\n物理攻撃に電撃ダメージが追加される",
     "ptBR": "quando ativa, a aura gera pulsos de eletricidade\nque causam dano a inimigos próximos\nadiciona dano elétrico ao ataque",
-    "ruRU": "Пока эта аура активна, испускает разряды электричества,\nнанося урон врагам вокруг вас.\nАтаки наносят дополнительный урон от молнии.",
+    "ruRU": "Пока эта аура активна, она испускает разряды электричества,\nнанося урон врагам вокруг вас.\nАтаки наносят дополнительный урон от молнии.",
     "zhCN": "激活时, 这个光环会发出电流脉冲\n对附近的敌人造成伤害\n在你的攻击中附加闪电伤害"
   },
   {
@@ -25496,7 +25496,7 @@
     "esMX": "Cuando está activa, el aura aumenta el daño, la velocidad\nde ataque y el índice de ataque para ti y tu equipo",
     "jaJP": "発動すると、自身と味方の攻撃力、攻撃速度、\n命中率を上昇させるオーラを発する",
     "ptBR": "quando ativa, a aura aumenta o dano, a velocidade de ataque\ne a taxa de ataque para você e seu grupo",
-    "ruRU": "Пока эта аура активна, увеличивает урон, повышает\nскорость атаки и рейтинг атаки вам и вашей группе.",
+    "ruRU": "Пока эта аура активна, она увеличивает урон,\nскорость и рейтинг атаки вам и вашей группе.",
     "zhCN": "激活时, 这个光环会提高你和\n小队成员的伤害, 攻击速度和命中值"
   },
   {
@@ -25632,7 +25632,7 @@
     "esMX": "Cuando está activa, el aura intenta redimir\nlas almas de los enemigos muertos\npara otorgarte vida y maná",
     "jaJP": "発動すると、倒した敵の魂を救済して\n自身のマナとライフを\n回復させるオーラを発する",
     "ptBR": "quando ativa, a aura tenta redimir\nas almas de inimigos mortos para conceder\npontos de vida e mana para você",
-    "ruRU": "Пока эта аура активна, пытается спасти\nдуши убитых врагов, восполняя\nвам здоровье и ману.",
+    "ruRU": "Пока эта аура активна, она пытается спасти\nдуши убитых врагов, восполняя\nвам здоровье и ману.",
     "zhCN": "激活时, 这个光环会尝试\n救赎已死怪物的灵魂\n为你恢复生命和法力"
   },
   {
@@ -28743,7 +28743,7 @@
     "esMX": "%d%% de probabilidad de golpe crítico",
     "jaJP": "クリティカル率%d%%",
     "ptBR": "%d%% de chance de Golpe Crítico",
-    "ruRU": "Вероятность критического удара: %d%%",
+    "ruRU": "Шанс критического удара: %d%%",
     "zhCN": "%d%%几率暴击"
   },
   {
@@ -28930,7 +28930,7 @@
     "esMX": "Probabilidad por nivel",
     "jaJP": "の確率（レベルごと）",
     "ptBR": "Chance por nível",
-    "ruRU": "вероятность за уровень",
+    "ruRU": "шанс за уровень",
     "zhCN": "每等级几率"
   },
   {
@@ -29440,7 +29440,7 @@
     "esMX": "%d% de probabilidad de golpe crítico",
     "jaJP": "クリティカル率%d%%",
     "ptBR": "%d% de chance de Golpe Crítico",
-    "ruRU": "Вероятность критического удара: %d%%",
+    "ruRU": "Шанс критического удара: %d%%",
     "zhCN": "%d暴击几率"
   },
   {
@@ -33707,7 +33707,7 @@
     "esMX": "Probabilidad de aturdir: ",
     "jaJP": "スタンの確率: ",
     "ptBR": "Chance de atordoar: ",
-    "ruRU": "Вероятность оглушения: ",
+    "ruRU": "Шанс оглушения: ",
     "zhCN": "击晕几率:"
   },
   {
@@ -33724,7 +33724,7 @@
     "esMX": "Probabilidad de afectar al objetivo: ",
     "jaJP": "ターゲットに効果を与える確率: ",
     "ptBR": "Chance de afetar o alvo: ",
-    "ruRU": "Вероятность воздействия на цель: ",
+    "ruRU": "Шанс воздействия на цель: ",
     "zhCN": "作用目标几率:"
   },
   {
