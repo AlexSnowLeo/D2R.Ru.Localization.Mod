@@ -13018,7 +13018,7 @@
     "esMX": "Cuando está activa, el aura regenera\nlentamente tu vida y la de tu equipo",
     "jaJP": "発動すると、自身と味方のライフを\n徐々に回復させるオーラを発する",
     "ptBR": "quando ativa, a aura regenera lentamente\nos pontos de vida para você e seu grupo",
-    "ruRU": "Пока эта аура активна, медленно восполняет\nздоровье вам и вашей группе.",
+    "ruRU": "Пока эта аура активна, она медленно восполняет\nздоровье вам и вашей группе.",
     "zhCN": "激活时, 这个光环会为你和\n小队成员缓慢恢复生命值"
   },
   {
@@ -13222,7 +13222,7 @@
     "esMX": "Cuando está activa, el aura daña a los enemigos\ncercanos con llamas celestiales\nAgrega daño de fuego a tu ataque",
     "jaJP": "発動すると、神聖な炎で近くの敵に\nダメージを与えるオーラを発する\n物理攻撃に火炎ダメージが追加される",
     "ptBR": "quando ativa, a aura causa dano a inimigos próximos\ncom chamas celestes\nadiciona dano ígneo ao ataque",
-    "ruRU": "Пока эта аура активна, наносит урон\nврагам вокруг вас. Атаки наносят\nдополнительный урон от огня.",
+    "ruRU": "Пока эта аура активна, она наносит урон\nврагам вокруг вас. Атаки наносят\nдополнительный урон от огня.",
     "zhCN": "激活时, 这个光环会用\n天堂的火焰攻击附近的敌人\n在你的攻击中附加火焰伤害"
   },
   {
@@ -13290,7 +13290,7 @@
     "esMX": "Cuando está activa, el aura refleja el daño que recibes\ny lo devuelve a tu atacante",
     "jaJP": "発動すると、受けたダメージを\n敵に反射するオーラを発する",
     "ptBR": "quando ativa, a aura reflete o dano causado a você\nde volta ao agressor",
-    "ruRU": "Пока эта аура активна, отражает получаемый\nурон в атакующих врагов.",
+    "ruRU": "Пока эта аура активна, она отражает получаемый\nурон в атакующих врагов.",
     "zhCN": "激活时, 这个光环会将你受到的伤害\n反弹给攻击者"
   },
   {
@@ -13358,7 +13358,7 @@
     "esMX": "Cuando está activa, el aura aumenta la\ndefensa para ti y tu equipo",
     "jaJP": "発動すると、自身と味方の防御力を\n上昇させるオーラを発する",
     "ptBR": "quando ativa, a aura aumenta a defesa\npara você e seu grupo",
-    "ruRU": "Пока эта аура активна, усиливает защиту\nдля вас и вашей группы.",
+    "ruRU": "Пока эта аура активна, она усиливает защиту\nдля вас и вашей группы.",
     "zhCN": "激活时, 这个光环会提高你和\n小队成员的防御值"
   },
   {
@@ -13426,7 +13426,7 @@
     "esMX": "Cuando está activa, el aura reduce el daño\nde frío que reciben tú y tu equipo",
     "jaJP": "発動すると、自身と味方が受ける冷気ダメージを\n軽減させるオーラを発する",
     "ptBR": "quando ativa, a aura reduz o dano gélido\nrecebido por você e seu grupo",
-    "ruRU": "Пока эта аура активна, снижает получаемый\nвами и вашей группой урон от льда.",
+    "ruRU": "Пока эта аура активна, она снижает получаемый\nвами и вашей группой урон от льда.",
     "zhCN": "激活时, 这个光环会降低你和\n小队成员受到的冰霜伤害"
   },
   {
@@ -14038,7 +14038,7 @@
     "esMX": "Cuando está activa, el aura congela a los monstruos cercanos\nAgrega daño de frío a tus ataques",
     "jaJP": "発動すると、近くの敵を凍結させ、自身の物理攻撃に\n冷気ダメージを追加するオーラを発する",
     "ptBR": "quando ativa, a aura congela monstros próximos\nadiciona dano gélido ao ataque",
-    "ruRU": "Пока эта аура активна,  она замораживает монстров вокруг вас. Атаки наносят\nдополнительный урон от льда.",
+    "ruRU": "Пока эта аура активна, она замораживает монстров вокруг вас. Атаки наносят\nдополнительный урон от льда.",
     "zhCN": "激活时, 这个光环会冻结怪物\n你的攻击附加冰霜伤害"
   },
   {
@@ -14106,7 +14106,7 @@
     "esMX": "Cuando está activa, el aura aumenta el índice de recuperación de vigor,\nel vigor máximo y la velocidad de movimiento para ti y tu equipo",
     "jaJP": "発動すると、自身と味方のスタミナ回復量、スタミナ最大値、\n移動速度を増加させるオーラを発する",
     "ptBR": "quando ativa, a aura aumenta a taxa de recuperação de vigor, o total de vigor\ne a velocidade de movimento para você e seu grupo",
-    "ruRU": "Пока эта аура активна, она ускоряет восполнение\nи увеличивает максимальный запас выносливости,\nа также скорость передвижения вам и вашей группе.",
+    "ruRU": "Пока эта аура активна, она ускоряет восполнение\nи увеличивает максимальный запас выносливости,\nа также увеличивает скорость передвижения вам и вашей группе.",
     "zhCN": "激活时, 这个光环会提高你和\n小队成员的耐力上限, 耐力回复速度\n以及移动的速度\n"
   },
   {
@@ -14378,7 +14378,7 @@
     "esMX": "Cuando está activa, el aura inflige daño a\nlos no muertos y los hace retroceder",
     "jaJP": "発動すると、アンデッドにダメージを\n与えて弾き飛ばすオーラを発する",
     "ptBR": "quando ativa, a aura causa dano a mortos-vivos\ne os repele",
-    "ruRU": "Пока эта аура активна, наносит урон\nврагам-нежити и отбрасывает их.",
+    "ruRU": "Пока эта аура активна, она наносит урон\nврагам-нежити и отбрасывает их.",
     "zhCN": "激活时, 这个光环会对亡灵\n造成伤害并将其击退"
   },
   {
@@ -14446,7 +14446,7 @@
     "esMX": "Cuando está activa, el aura aumenta la\nrecuperación de maná para ti y tu equipo",
     "jaJP": "発動すると、自身と味方のマナ回復量を\n増加させるオーラを発する",
     "ptBR": "quando ativa, a aura aumenta a recuperação de mana\npara você e seu grupo",
-    "ruRU": "Пока эта аура активна, ускоряет\nвосполнение маны вам и вашей группе.",
+    "ruRU": "Пока эта аура активна, она ускоряет\nвосполнение маны вам и вашей группе.",
     "zhCN": "激活时, 这个光环会提高你和\n小队成员的法力回复速度"
   },
   {
