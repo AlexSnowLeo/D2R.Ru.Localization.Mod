@@ -1322,7 +1322,7 @@
     "esMX": "bermellón",
     "jaJP": "朱色を帯びた",
     "ptBR": "Vermelho-vivo",
-    "ruRU": "[ms]закатный[fs]закатная[ns]закатное[pl]закатные",
+    "ruRU": "[ms]пунцовый[fs]пунцовая[ns]пунцовое[pl]пунцовые",
     "zhCN": "朱红"
   },
   {
@@ -1373,7 +1373,7 @@
     "esMX": "[ms]tangerino[fs]tangerina[mp]tangerinos[fp]tangerinas",
     "jaJP": "暗橙色を帯びた",
     "ptBR": "[fs]Tangerina[ms]Tangerina[fp]Tangerina[mp]Tangerina",
-    "ruRU": "[ms]мандариновый[fs]мандариновая[ns]мандариновое[pl]мандариновые",
+    "ruRU": "[ms]танжерский[fs]танжерская[ns]танжерское[pl]танжерские",
     "zhCN": "黄橘"
   },
   {
@@ -1543,7 +1543,7 @@
     "esMX": "[ms]perdurable[fs]perdurable[mp]perdurables[fp]perdurables",
     "jaJP": "不朽なる",
     "ptBR": "[ms]Persistente[mp]Persistentes[fs]Persistente[fp]Persistentes",
-    "ruRU": "[ms]живучий[fs]живучая[ns]живучее[pl]живучие",
+    "ruRU": "[ms]несокрушимый[fs]несокрушимая[ns]несокрушимое[pl]несокрушимые",
     "zhCN": "持久"
   },
   {
@@ -2053,7 +2053,7 @@
     "esMX": "de espinas",
     "jaJP": "荊棘の",
     "ptBR": "dos Espinhos",
-    "ruRU": "с шипами",
+    "ruRU": "шипов",
     "zhCN": "荆棘之"
   },
   {
@@ -2070,7 +2070,7 @@
     "esMX": "de púas",
     "jaJP": "刺の",
     "ptBR": "dos Espetos",
-    "ruRU": "острых шипов",
+    "ruRU": "колючек",
     "zhCN": "尖刺之"
   },
   {
@@ -2206,7 +2206,7 @@
     "esMX": "del mago",
     "jaJP": "魔術師の",
     "ptBR": "do Magus",
-    "ruRU": "заклинателя",
+    "ruRU": "волхва",
     "zhCN": "术士之"
   },
   {
@@ -3175,7 +3175,7 @@
     "esMX": "del murciélago",
     "jaJP": "蝙蝠の",
     "ptBR": "do Morcego",
-    "ruRU": "со знаком летучей мыши",
+    "ruRU": "со знаком нетопыря",
     "zhCN": "恶蝠之"
   },
   {
@@ -4127,7 +4127,7 @@
     "esMX": "[ms]ordenado[fs]ordenada[mp]ordenados[fp]ordenadas",
     "jaJP": "秩序の",
     "ptBR": "[fs]Ordinal[ms]Ordinal[fp]Ordinais[mp]Ordinais",
-    "ruRU": "[ms]церемониальный[fs]церемониальная[ns]церемониальное[pl]церемониальные",
+    "ruRU": "[ms]крестовый[fs]крестовая[ns]крестовое[pl]крестовые",
     "zhCN": "秩序"
   },
   {
@@ -4280,7 +4280,7 @@
     "esMX": "[fs]Navaja",
     "jaJP": "剃刀",
     "ptBR": "[fs]Navalha",
-    "ruRU": "[ns]лезвие",
+    "ruRU": "[fs]бритва",
     "zhCN": "剃刀"
   },
   {
@@ -4637,7 +4637,7 @@
     "esMX": "[fs]Sentencia",
     "jaJP": "弔鐘",
     "ptBR": "[ms]Funeral",
-    "ruRU": "[ms]плач",
+    "ruRU": "[ms]звон",
     "zhCN": "丧钟"
   },
   {
@@ -4773,7 +4773,7 @@
     "esMX": "[fs]Destrucción",
     "jaJP": "破滅",
     "ptBR": "[fs]Destruição",
-    "ruRU": "[ns]смятие",
+    "ruRU": "[ms]обломок",
     "zhCN": "破坏"
   },
   {
@@ -4892,7 +4892,7 @@
     "esMX": "[ms]Vuelo",
     "jaJP": "飛翔",
     "ptBR": "[ms]Voo",
-    "ruRU": "[ms]лёт",
+    "ruRU": "[ms]исход",
     "zhCN": "飞箭"
   },
   {
@@ -5351,7 +5351,7 @@
     "esMX": "[ms]ártico[fs]ártica[mp]árticos[fp]árticas",
     "jaJP": "極寒の",
     "ptBR": "[ms]Ártico[mp]Árticos[fs]Ártica[fp]Árticas",
-    "ruRU": "[ms]холодный[fs]холодная[ns]холодное[pl]холодные",
+    "ruRU": "[ms]арктический[fs]арктическая[ns]арктическое[pl]арктические",
     "zhCN": "北极"
   },
   {
@@ -5776,7 +5776,7 @@
     "esMX": "[ms]mohoso[fs]mohosa[mp]mohosos[fp]mohosas",
     "jaJP": "モールド",
     "ptBR": "[ms]Mofado[mp]Mofados[fs]Mofada[fp]Mofadas",
-    "ruRU": "[ms]плесневый[fs]плесневая[ns]плесневое[pl]плесневые",
+    "ruRU": "[ms]плесневой[fs]плесневая[ns]плесневое[pl]плесневые",
     "zhCN": "霉斑"
   },
   {
@@ -6405,7 +6405,7 @@
     "esMX": "[ms]Hachazo",
     "jaJP": "ハック",
     "ptBR": "[ms]Cortador",
-    "ruRU": "[ms]разруб",
+    "ruRU": "[fs]мотыга",
     "zhCN": "劈杀"
   },
   {
@@ -6609,7 +6609,7 @@
     "esMX": "[fs]Navaja",
     "jaJP": "レイザー",
     "ptBR": "[fs]Navalha",
-    "ruRU": "[ns]лезвие",
+    "ruRU": "[fs]бритва",
     "zhCN": "剃刀"
   },
   {
@@ -6949,7 +6949,7 @@
     "esMX": "[fs]Explosión",
     "jaJP": "バング",
     "ptBR": "[ms]Estrondo",
-    "ruRU": "[ms]гром",
+    "ruRU": "[ms]взрыв",
     "zhCN": "巨响"
   },
   {
@@ -7170,7 +7170,7 @@
     "esMX": "[fs]Zanca",
     "jaJP": "シャンク",
     "ptBR": "[fs]Bicuda",
-    "ruRU": "[fs]плюсна",
+    "ruRU": "[fs]лапа",
     "zhCN": "跛足"
   },
   {
@@ -7799,7 +7799,7 @@
     "esMX": "el Aullador",
     "jaJP": "吠える",
     "ptBR": ", o Uivante",
-    "ruRU": "Вой",
+    "ruRU": "Ревун",
     "zhCN": "嗥叫者·"
   },
   {
@@ -8122,7 +8122,7 @@
     "esMX": "marfil",
     "jaJP": "象牙を飾りし",
     "ptBR": "[fs]Marfina[ms]Marfino[fp]Marfinas[mp]Marfinos",
-    "ruRU": "[ms]бивенный[fs]бивенная[ns]бивенное[pl]бивенные",
+    "ruRU": "[ms]слоновий[fs]слоновья[ns]слоновое[pl]слоновые",
     "zhCN": "象牙"
   },
   {
@@ -8411,7 +8411,7 @@
     "esMX": "[ms]centellante[fs]centellante[mp]centellantes[fp]centellantes",
     "jaJP": "雷撃を宿す",
     "ptBR": "[ms]Chocante[mp]Chocantes[fs]Chocante[fp]Chocantes",
-    "ruRU": "[ms]электрический[fs]электрическая[ns]электрическое[pl]электрические",
+    "ruRU": "[ms]шокирующий[fs]шокирующая[ns]шокирующее[pl]шокирующие",
     "zhCN": "雷光"
   },
   {
@@ -8428,7 +8428,7 @@
     "esMX": "[ms]catódico[fs]catódica[mp]catódicos[fp]catódicas",
     "jaJP": "放電する",
     "ptBR": "[ms]Vergado[mp]Vergados[fs]Vergada[fp]Vergadas",
-    "ruRU": "[ms]поражающий[fs]поражающая[ns]поражающее[pl]поражающие",
+    "ruRU": "[ms]дуговой[fs]дуговая[ns]дуговое[pl]дуговые",
     "zhCN": "弧光"
   },
   {
@@ -8581,7 +8581,7 @@
     "esMX": "[ms]boreal[fs]boreal[mp]boreales[fp]boreales",
     "jaJP": "凍てつく",
     "ptBR": "[ms]Boreal[mp]Boreais[fs]Boreal[fp]Boreais",
-    "ruRU": "[ms]борейский[fs]борейская[ns]борейское[pl]борейские",
+    "ruRU": "[ms]полярный[fs]полярная[ns]полярное[pl]полярные",
     "zhCN": "极寒"
   },
   {
@@ -8819,7 +8819,7 @@
     "esMX": "[ms]alarmante[fs]alarmante[mp]alarmantes[fp]alarmantes",
     "jaJP": "警戒する",
     "ptBR": "[ms]Alarmante[mp]Alarmantes[fs]Alarmante[fp]Alarmantes",
-    "ruRU": "[ms]настораживающий[fs]настораживающая[ns]настораживающее[pl]настораживающие",
+    "ruRU": "[ms]набатный[fs]набатная[ns]набатное[pl]набатные",
     "zhCN": "大吼"
   },
   {
@@ -8836,7 +8836,7 @@
     "esMX": "del tonto",
     "jaJP": "愚者が携えし",
     "ptBR": "[fs]Parva[ms]Parvo[fp]Parvas[mp]Parvos",
-    "ruRU": "[ms]скомороший[fs]скоморошья[ns]скоморошье[pl]скоморошьи",
+    "ruRU": "[ms]дурацкий[fs]дурацкая[ns]дурацкое[pl]дурацкие",
     "zhCN": "愚者的"
   },
   {
@@ -8853,7 +8853,7 @@
     "esMX": "del bromista",
     "jaJP": "道化師が携えし",
     "ptBR": "[fs]Farsante[ms]Farsante[fp]Farsantes[mp]Farsantes",
-    "ruRU": "[ms]гаерский[fs]гаерская[ns]гаерское[pl]гаерские",
+    "ruRU": "[ms]скомороший[fs]скоморошья[ns]скоморошье[pl]скоморошьи",
     "zhCN": "丑角的"
   },
   {
@@ -9295,7 +9295,7 @@
     "esMX": "del experto",
     "jaJP": "熟練せし",
     "ptBR": "[fs]Especialista[ms]Especialista[fp]Especialistas[mp]Especialistas",
-    "ruRU": "[ms]специальный[fs]специальная[ns]специальное[pl]специальные",
+    "ruRU": "[ms]экспертный[fs]экспертная[ns]экспертное[pl]экспертные",
     "zhCN": "老手的"
   },
   {
@@ -9363,7 +9363,7 @@
     "esMX": "[ms]resonante[fs]resonante[mp]resonantes[fp]resonantes",
     "jaJP": "共鳴する",
     "ptBR": "[ms]Ressonante[mp]Ressonantes[fs]Ressonante[fp]Ressonantes",
-    "ruRU": "[ms]звучный[fs]звучная[ns]звучное[pl]звучные",
+    "ruRU": "[ms]резонансный[fs]резонансная[ns]резонансное[pl]резонансные",
     "zhCN": "洪亮"
   },
   {
@@ -10077,7 +10077,7 @@
     "esMX": "del orfebre",
     "jaJP": "宝石職人が携えし",
     "ptBR": "[fs]Joalheira[ms]Joalheiro[fp]Joalheiras[mp]Joalheiros",
-    "ruRU": "[ms]инкрустируемый[fs]инкрустируемая[ns]инкрустируемое[pl]инкрустируемые",
+    "ruRU": "[ms]ювелирный[fs]ювелирная[ns]ювелирное[pl]ювелирные",
     "zhCN": "珠宝匠的"
   },
   {
@@ -10655,7 +10655,7 @@
     "esMX": "carbúnculo",
     "jaJP": "カーバンクルを帯びた",
     "ptBR": "[fs]Carbuncular[ms]Carbuncular[fp]Carbunculares[mp]Carbunculares",
-    "ruRU": "[ms]карбункловый[fs]карбункловая[ns]карбункловое[pl]карбункловые",
+    "ruRU": "[ms]карбункуловый[fs]карбункуловая[ns]карбункуловое[pl]карбункуловые",
     "zhCN": "刺红"
   },
   {
@@ -10672,7 +10672,7 @@
     "esMX": "[ms]serrado[fs]serrada[mp]serrados[fp]serradas",
     "jaJP": "鋸歯を持つ",
     "ptBR": "[ms]Dentado[mp]Dentados[fs]Dentada[fp]Dentadas",
-    "ruRU": "[ms]зубчатый[fs]зубчатая[ns]зубчатое[pl]зубчатые",
+    "ruRU": "[ms]иззубренный[fs]иззубренная[ns]иззубренное[pl]иззубренные",
     "zhCN": "锯齿"
   },
   {
@@ -10774,7 +10774,7 @@
     "esMX": "[ms]glorificado[fs]glorificada[mp]glorificados[fp]glorificadas",
     "jaJP": "聖なる",
     "ptBR": "[ms]Santificado[mp]Santificados[fs]Santificada[fp]Santificadas",
-    "ruRU": "[ms]свято чтимый[fs]свято чтимая[ns]свято чтимое[pl]свято чтимые",
+    "ruRU": "[ms]священный[fs]священная[ns]священное[pl]священные",
     "zhCN": "神圣"
   },
   {
@@ -10825,7 +10825,7 @@
     "esMX": "[ms]consagrado[fs]consagrada[mp]consagrados[fp]consagradas",
     "jaJP": "聖別されし",
     "ptBR": "[ms]Consagrado[mp]Consagrados[fs]Consagrada[fp]Consagradas",
-    "ruRU": "[ms]освященный[fs]освященная[ns]освященное[pl]освященные",
+    "ruRU": "[ms]сакральный[fs]сакральная[ns]сакральное[pl]сакральные",
     "zhCN": "圣化"
   },
   {
@@ -11233,7 +11233,7 @@
     "esMX": "[ms]rencoroso[fs]rencorosa[mp]rencorosos[fp]rencorosas",
     "jaJP": "邪念ある",
     "ptBR": "[ms]Rancoroso[mp]Rancorosos[fs]Rancorosa[fp]Rancorosas",
-    "ruRU": "[ms]недружелюбный[fs]недружелюбная[ns]недружелюбное[pl]недружелюбные",
+    "ruRU": "[ms]лиходейный[fs]лиходейная[ns]лиходейное[pl]лиходейные",
     "zhCN": "歹意"
   },
   {
@@ -11454,7 +11454,7 @@
     "esMX": "[ms]nuboso[fs]nubosa[mp]nubosos[fp]nubosas",
     "jaJP": "曇った",
     "ptBR": "[ms]Nublado[mp]Nublados[fs]Nublada[fp]Nubladas",
-    "ruRU": "[ms]мутный[fs]мутная[ns]мутное[pl]мутные",
+    "ruRU": "[ms]облачный[fs]облачная[ns]облачное[pl]облачные",
     "zhCN": "迷云"
   },
   {
@@ -11488,7 +11488,7 @@
     "esMX": "[ms]severo[fs]severa[mp]severos[fp]severas",
     "jaJP": "苛酷なる",
     "ptBR": "[ms]Punitivo[mp]Punitivos[fs]Punitiva[fp]Punitivas",
-    "ruRU": "[ms]казнящий[fs]казнящая[ns]казнящее[pl]казнящие",
+    "ruRU": "[ms]наказующий[fs]наказующая[ns]наказующее[pl]наказующие",
     "zhCN": "惩罚"
   },
   {
@@ -12083,7 +12083,7 @@
     "esMX": "de amianto",
     "jaJP": "アミアンタスの",
     "ptBR": "de Amianto",
-    "ruRU": "амианта",
+    "ruRU": "амианита",
     "zhCN": "石绒之"
   },
   {
@@ -12134,7 +12134,7 @@
     "esMX": "de amistad",
     "jaJP": "懇意の",
     "ptBR": "de Amicae",
-    "ruRU": "дружбы",
+    "ruRU": "истины",
     "zhCN": "护命之"
   },
   {
@@ -13239,7 +13239,7 @@
     "esMX": "de verdad",
     "jaJP": "真実の",
     "ptBR": "da Verdade",
-    "ruRU": "истины",
+    "ruRU": "правды",
     "zhCN": "真理之"
   },
   {
