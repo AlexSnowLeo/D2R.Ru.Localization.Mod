@@ -1,6 +1,8 @@
 # D2R.Ru.Localization.Mod
 Diablo 2 Resurrectred RU localization mod
 
+Автор мода: **Alk0zAuruS** (дискорд @Alk0zAuruS#1040) - Автор локализации Grim Dawn и многих других подобных игр.
+
 Для установки мода в игре:
 
 - Скачайте релиз мода: https://github.com/AlexSnowLeo/D2R.Ru.Localization.Mod/releases
