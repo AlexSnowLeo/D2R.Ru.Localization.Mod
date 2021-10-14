@@ -13,7 +13,7 @@
     "esMX": "amigos",
     "jaJP": "friends",
     "ptBR": "amigos",
-    "ruRU": "друзья",
+    "ruRU": "friends",
     "zhCN": "好友"
   },
   {
@@ -30,7 +30,7 @@
     "esMX": "lista",
     "jaJP": "list",
     "ptBR": "lista",
-    "ruRU": "список",
+    "ruRU": "list",
     "zhCN": "列表"
   },
   {
@@ -64,7 +64,7 @@
     "esMX": "agregar",
     "jaJP": "add",
     "ptBR": "adicionar",
-    "ruRU": "добавить",
+    "ruRU": "add",
     "zhCN": "添加"
   },
   {
@@ -98,7 +98,7 @@
     "esMX": "eliminar",
     "jaJP": "remove",
     "ptBR": "remover",
-    "ruRU": "удалить",
+    "ruRU": "remove",
     "zhCN": "移除"
   },
   {
@@ -166,7 +166,7 @@
     "esMX": "aceptar",
     "jaJP": "accept",
     "ptBR": "aceitar",
-    "ruRU": "принять",
+    "ruRU": "accept",
     "zhCN": "接受"
   },
   {
@@ -183,7 +183,7 @@
     "esMX": "rechazar",
     "jaJP": "reject",
     "ptBR": "recusar",
-    "ruRU": "отклонить",
+    "ruRU": "reject",
     "zhCN": "拒绝"
   },
   {
@@ -200,7 +200,7 @@
     "esMX": "anular",
     "jaJP": "revoke",
     "ptBR": "cancelar",
-    "ruRU": "отозвать",
+    "ruRU": "revoke",
     "zhCN": "撤回"
   },
   {
@@ -217,7 +217,7 @@
     "esMX": "enviados",
     "jaJP": "sent",
     "ptBR": "enviado",
-    "ruRU": "отправить",
+    "ruRU": "sent",
     "zhCN": "发送"
   },
   {
@@ -234,7 +234,7 @@
     "esMX": "recibidos",
     "jaJP": "received",
     "ptBR": "recebido",
-    "ruRU": "получено",
+    "ruRU": "received",
     "zhCN": "接收"
   },
   {
@@ -608,7 +608,7 @@
     "esMX": "canal",
     "jaJP": "channel",
     "ptBR": "canal",
-    "ruRU": "канал",
+    "ruRU": "channel",
     "zhCN": "频道"
   },
   {
@@ -625,7 +625,7 @@
     "esMX": "unirse",
     "jaJP": "join",
     "ptBR": "entrar",
-    "ruRU": "подключиться",
+    "ruRU": "join",
     "zhCN": "加入"
   },
   {
@@ -642,7 +642,7 @@
     "esMX": "designar",
     "jaJP": "designate",
     "ptBR": "designar",
-    "ruRU": "назначить",
+    "ruRU": "designate",
     "zhCN": "任命"
   },
   {
@@ -659,7 +659,7 @@
     "esMX": "invitar",
     "jaJP": "invite",
     "ptBR": "convidar",
-    "ruRU": "пригласить",
+    "ruRU": "invite",
     "zhCN": "邀请"
   },
   {
@@ -676,7 +676,7 @@
     "esMX": "expulsar",
     "jaJP": "kick",
     "ptBR": "expulsar",
-    "ruRU": "выгнать",
+    "ruRU": "kick",
     "zhCN": "踢人"
   },
   {
@@ -693,7 +693,7 @@
     "esMX": "dejar",
     "jaJP": "leave",
     "ptBR": "sair",
-    "ruRU": "покинуть",
+    "ruRU": "leave",
     "zhCN": "离开"
   },
   {
@@ -710,7 +710,7 @@
     "esMX": "privado",
     "jaJP": "private",
     "ptBR": "privado",
-    "ruRU": "частный",
+    "ruRU": "private",
     "zhCN": "私人"
   },
   {
@@ -727,7 +727,7 @@
     "esMX": "quien",
     "jaJP": "who",
     "ptBR": "quem",
-    "ruRU": "кто",
+    "ruRU": "who",
     "zhCN": "查询"
   },
   {
@@ -846,7 +846,7 @@
     "esMX": "susurrar",
     "jaJP": "whisper",
     "ptBR": "sussurrar",
-    "ruRU": "шепот",
+    "ruRU": "whisper",
     "zhCN": "密语"
   },
   {
@@ -863,7 +863,7 @@
     "esMX": "mensaje",
     "jaJP": "message",
     "ptBR": "mensagem",
-    "ruRU": "сообщение",
+    "ruRU": "message",
     "zhCN": "消息"
   },
   {
@@ -880,7 +880,7 @@
     "esMX": "nm",
     "jaJP": "dnd",
     "ptBR": "ocupado",
-    "ruRU": "занят",
+    "ruRU": "dnd",
     "zhCN": "勿扰"
   },
   {
@@ -914,7 +914,7 @@
     "esMX": "aus",
     "jaJP": "away",
     "ptBR": "ausente",
-    "ruRU": "отошел",
+    "ruRU": "away",
     "zhCN": "暂离"
   },
   {
@@ -1016,7 +1016,7 @@
     "esMX": "opcion",
     "jaJP": "option",
     "ptBR": "opçao",
-    "ruRU": "настройка",
+    "ruRU": "option",
     "zhCN": "选项"
   },
   {
@@ -1050,7 +1050,7 @@
     "esMX": "activar",
     "jaJP": "set",
     "ptBR": "definir",
-    "ruRU": "установить",
+    "ruRU": "set",
     "zhCN": "设置"
   },
   {
@@ -1084,7 +1084,7 @@
     "esMX": "desactivar",
     "jaJP": "clear",
     "ptBR": "limpar",
-    "ruRU": "очистить",
+    "ruRU": "clear",
     "zhCN": "清除"
   },
   {
@@ -1356,7 +1356,7 @@
     "esMX": "hora",
     "jaJP": "time",
     "ptBR": "hora",
-    "ruRU": "время",
+    "ruRU": "time",
     "zhCN": "时间"
   },
   {
