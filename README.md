@@ -35,3 +35,6 @@ Diablo 2 Resurrectred RU localization mod
 Исправлен текст заданий третьего акта.
 
 Изменены названия некоторых мобов.
+
+Полное описание всех изменений, по сравнению с оригиналом смотрите здесь:
+https://github.com/AlexSnowLeo/D2R.Ru.Localization.Mod/tree/main/Descriptions
