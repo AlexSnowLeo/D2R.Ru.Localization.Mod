@@ -931,7 +931,7 @@
     "esMX": "Cambia tu estado a Ausente",
     "jaJP": "オンライン状態を「退席中」にします。",
     "ptBR": "Define seu status online como Ausente.",
-    "ruRU": "Указывает сетевой статус «Отошел».",
+    "ruRU": "Уcтанавливает сетевой статус «Отошел».",
     "zhCN": "将你的在线状态设置为离开"
   },
   {
@@ -965,7 +965,7 @@
     "esMX": "Cambia tu estado a En línea",
     "jaJP": "オンライン状態を「オンライン」にします。",
     "ptBR": "Define seu status online como Online.",
-    "ruRU": "Указывает сетевой статус «В сети».",
+    "ruRU": "Устанавливает сетевой статус «В сети».",
     "zhCN": "将你的在线状态设置为在线"
   },
   {
@@ -999,7 +999,7 @@
     "esMX": "Cambia tu estado",
     "jaJP": "自分のオンライン状態を設定します。",
     "ptBR": "Define seu status online.",
-    "ruRU": "Указывает ваш сетевой статус.",
+    "ruRU": "Устанавливает ваш сетевой статус.",
     "zhCN": "设置你的在线状态"
   },
   {
@@ -2614,7 +2614,7 @@
     "esMX": "Cambia tu estado a Local",
     "jaJP": "オンライン状態をオフラインにします",
     "ptBR": "Define seu status online como Offline.",
-    "ruRU": "Указывает сетевой статус «Не в сети».",
+    "ruRU": "Устанавливает сетевой статус «Не в сети».",
     "zhCN": "将你的在线状态设置为离线"
   },
   {

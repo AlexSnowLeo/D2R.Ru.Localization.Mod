@@ -3617,7 +3617,7 @@
     "esMX": "Debes ser nivel 8 para completar esta gesta. Podrás completarla si creas una nueva partida o te unes a una partida diferente cuando seas al menos nivel 8.",
     "jaJP": "レベル8未満ではこのクエストを完了できません。レベル8以上で新しいゲームを作成するか、別のゲームに参加する必要があります。",
     "ptBR": "Você precisa estar no nível 8 para concluir esta missão. Você pode concluí-la entrando em outro jogo ou criando um novo quando estiver pelo menos no nível 8.",
-    "ruRU": "Это задание могут выполнить только игроки не ниже 8-го уровня. Вы можете выполнить его, если создадите новую игру или присоединитесь к другой игре после достижения 8-го уровня.",
+    "ruRU": "Это задание могут выполнить только игроки не ниже 8 уровня. Вы можете выполнить его, если создадите новую игру или присоединитесь к другой игре после достижения 8 уровня.",
     "zhCN": "你必须达到8级才能完成该任务。你可以在升至8级后创建一个新游戏，或者加入另一个游戏来完成它。"
   },
   {
@@ -5606,7 +5606,7 @@
     "esMX": "Ambos jugadores deben ser al menos nivel 9",
     "jaJP": "両方のプレイヤーがレベル9以上でなければ",
     "ptBR": "Os jogadores precisam estar pelo menos no nível 9",
-    "ruRU": "Оба игрока должны быть не ниже 9-го уровня,",
+    "ruRU": "Оба игрока должны быть не ниже 9 уровня,",
     "zhCN": "两名玩家都必须至少达到9级"
   },
   {
@@ -6150,7 +6150,7 @@
     "esMX": "Probabilidad de golpe promedio",
     "jaJP": "攻撃命中率（平均）",
     "ptBR": "Chance média de acerto",
-    "ruRU": "Средняя вероятность попадания",
+    "ruRU": "Средний шанс попадания",
     "zhCN": "命中平均几率"
   },
   {
@@ -6167,7 +6167,7 @@
     "esMX": "monstruo de nivel %d: %d%%",
     "jaJP": "レベル%dモンスターに対する: %d%%",
     "ptBR": "monstro de nível %d: %d%%",
-    "ruRU": "по монстру %d-го уровня: %d%%",
+    "ruRU": "по монстру %d уровня: %d%%",
     "zhCN": "%d级怪物: %d%%"
   },
   {
@@ -6184,7 +6184,7 @@
     "esMX": "Probabilidad promedio de que",
     "jaJP": "レベル%dモンスターからの",
     "ptBR": "Chance média de que um monstro de nível %d",
-    "ruRU": "Средняя вероятность, с которой монстр %d-го уровня",
+    "ruRU": "Средний шанс, с которой монстр %d уровня",
     "zhCN": "%d级怪物击中"
   },
   {
@@ -11964,7 +11964,7 @@
     "esMX": "Probabilidad promedio de que %s te golpee: %d%%",
     "jaJP": "%0からの攻撃命中率（平均）: %1%%",
     "ptBR": "Chance média de que %s acertará você: %d%%",
-    "ruRU": "Средняя вероятность того, что %s попадет по вам: %d%%",
+    "ruRU": "Средний шанс, что %s попадет по вам: %d%%",
     "zhCN": "%s会击中你的平均几率: %d%%"
   },
   {
@@ -11981,7 +11981,7 @@
     "esMX": "Probabilidad de bloqueo: %d%%\nProbabilidad promedio de que %s te golpee: %d%%",
     "jaJP": "ブロック確率: %0%%\n%1からの攻撃命中率（平均）: %2%%",
     "ptBR": "Chance de bloqueio: %d%%\nChance média de que %s acertará você: %d%%",
-    "ruRU": "Вероятность блока: %d%%\nСредняя вероятность того, что %s попадет по вам: %d%%",
+    "ruRU": "Шанс блока: %d%%\nСредний шанс, что %s попадет по вам: %d%%",
     "zhCN": "格挡几率: %d%%\n%s会击中你的平均几率: %d%%"
   },
   {
@@ -18339,7 +18339,7 @@
     "esMX": "Juega en la clasificación actual y únete a la carrera para llegar a nivel 99.",
     "jaJP": "現在のラダーでプレイして、レベル99を目指した競争に参加します。",
     "ptBR": "Jogue na competição atual e entre na corrida para chegar ao nível 99.",
-    "ruRU": "Играйте в рейтинговом режиме и соревнуйтесь с другими в достижении 99-го уровня.",
+    "ruRU": "Играйте в рейтинговом режиме и соревнуйтесь с другими в достижении 99 уровня.",
     "zhCN": "在当前天梯中游戏，加入速升99级竞速赛。"
   },
   {
@@ -23694,7 +23694,7 @@
     "esMX": "Determina qué tan bien tus ataques\npueden golpear a los enemigos.",
     "jaJP": "攻撃が敵に命中する確率を示します。",
     "ptBR": "Define a eficácia de acerto\ndos seus ataques.",
-    "ruRU": "Определяет вероятность\nпопадания атак по противникам.",
+    "ruRU": "Определяет шанс\nпопадания атак по противникам.",
     "zhCN": "表示你的攻击能否很好的命中敌人。"
   },
   {
@@ -23711,7 +23711,7 @@
     "esMX": "Determina qué tan bien puedes evadir\nlos ataques enemigos.",
     "jaJP": "敵の攻撃を回避する確率を示します。",
     "ptBR": "Define o quanto você consegue\nevitar que ataques inimigos acertem você.",
-    "ruRU": "Определяет вероятность\nуклонения от атак противников.",
+    "ruRU": "Определяет шанс\nуклонения от атак противников.",
     "zhCN": "表示你躲避敌人攻击的效果有多好。"
   },
   {
@@ -24068,7 +24068,7 @@
     "esMX": "Nivel %d %s",
     "jaJP": "レベル%d %s",
     "ptBR": "Nível %d %s",
-    "ruRU": "%1 %0-го уровня",
+    "ruRU": "%1 %0 уровня",
     "zhCN": "%d级%s"
   },
   {
@@ -24442,7 +24442,7 @@
     "esMX": "Arcón de temporada de clasificación %d\nSolo puedes quitar objetos de esta pestaña",
     "jaJP": "ラダー・シーズン%dの保管箱です\nこのタブではアイテムの削除のみ行えます",
     "ptBR": "Baú da temporada de competição %d\nSó é possível remover itens desta aba",
-    "ruRU": "Тайник %d-го рейтингового сезона\nВы можете только забирать предметы из этой вкладки.",
+    "ruRU": "Тайник %d рейтингового сезона\nВы можете только забирать предметы из этой вкладки.",
     "zhCN": "天梯第%d赛季的储藏箱\n你只能移除该页空间栏里的物品"
   },
   {
@@ -28301,7 +28301,7 @@
     "esMX": "Alcanza el nivel 9",
     "jaJP": "レベル９に到達してください。",
     "ptBR": "Alcance o nível 9",
-    "ruRU": "Достигните 9-го уровня",
+    "ruRU": "Достигните 9 уровня",
     "zhCN": "达到9级"
   },
   {
@@ -29270,7 +29270,7 @@
     "esMX": "Solo amigos pueden unirse a tu partida privada",
     "jaJP": "フレンドのみがあなたの非公開ゲームに参加できます",
     "ptBR": "Somente amigos podem entrar no seu jogo privado",
-    "ruRU": "Только друзья могут подключиться к вашей частной игре.",
+    "ruRU": "К вашей частной игре могут подключиться только друзья.",
     "zhCN": "只有好友能够加入你的私人游戏"
   },
   {
@@ -29321,7 +29321,7 @@
     "esMX": "Solo amigos",
     "jaJP": "フレンドのみ",
     "ptBR": "Somente amigos",
-    "ruRU": "Только Друзья",
+    "ruRU": "Только друзья",
     "zhCN": "仅限好友"
   },
   {
@@ -29457,7 +29457,7 @@
     "esMX": "Nota: Esta configuración se aplicará inmediatamente a una partida local.",
     "jaJP": "注意：これらの設定は即座にオフラインのゲームに反映されます。",
     "ptBR": "Observação: estas configurações entram em vigor imediatamente no jogo offline.",
-    "ruRU": "Примечание: В одиночной игре эти настройки сразу же вступают в силу.",
+    "ruRU": "Примечание: В одиночной игре эти настройки сразу же вступят в силу.",
     "zhCN": "注意：这些设置在离线游戏中会立即生效。"
   },
   {
