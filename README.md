@@ -1,8 +1,8 @@
 # D2R.Ru.Localization.Mod
 Diablo 2 Resurrectred RU localization mod
 
-Автор мода: **[Alk0zAuruS](https://github.com/Alk0zAuruS)** - aвтор локализации Grim Dawn и многих других подобных игр. 
-Администратор и создатель дискорд сервера [Grim Dawn по-русски](https://discord.gg/hebNy2cy)
+Автор мода: **[Alk0zAuruS](https://github.com/Alk0zAuruS)** - aвтор локализации Grim Dawn и некоторых других подобных игр. 
+Администратор дискорд сервера [Grim Dawn по-русски](https://discord.gg/hebNy2cy)
 
 **Для установки мода в игре:**
 
