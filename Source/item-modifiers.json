@@ -7,7 +7,7 @@
     "deDE": "Hier ist ein Handel mit diesem Gegenstand nicht möglich.",
     "esES": "Aquí no se puede comerciar con este objeto",
     "frFR": "Les objets ne peuvent pas être vendus ici.",
-    "itIT": "Non si possono scambiare oggetti qui.",
+    "itIT": "Questo oggetto non si può scambiare qui.",
     "koKR": "여기서는 아이템을 거래할 수 없습니다.",
     "plPL": "Tego przedmiotu nie można tutaj sprzedać.",
     "esMX": "Este objeto no puede negociarse aquí.",
@@ -3193,7 +3193,7 @@
     "jaJP": "毒ダメージ付与（合計%d - %dダメージを%d秒間で与える）",
     "ptBR": "Adiciona %d-%d de dano venenoso ao longo de %d segundos",
     "ruRU": "+%d–%d урона от яда за %d сек.",
-    "zhCN": "+ %d-%d 毒药伤害，持续%d秒"
+    "zhCN": "+ %d-%d 毒素伤害，持续%d秒"
   },
   {
     "id": 10036,
@@ -5080,7 +5080,7 @@
     "jaJP": "耐久力が回復（%d秒ごとに%d）",
     "ptBR": "Repara %d de durabilidade em %d segundos",
     "ruRU": "Восполняет %d ед. прочности раз в %d сек.",
-    "zhCN": "在%1秒内修复%0点耐久度"
+    "zhCN": "每 %1 秒修复 %0 点耐久度"
   },
   {
     "id": 21243,
@@ -5536,7 +5536,7 @@
     "koKR": "무형 (수리 불가)",
     "plPL": "Przedmiot eteryczny (nie może być naprawiony)",
     "esMX": "Etéreo (no puede repararse)",
-    "jaJP": "エセリアル（修理不可能）",
+    "jaJP": "イシリアル（修理不可能）",
     "ptBR": "Etéreo (não pode ser reparado)",
     "ruRU": "Бесплотный предмет (нельзя ремонтировать)",
     "zhCN": "无形的 (无法修复)"
@@ -5621,7 +5621,7 @@
     "koKR": "무형 (수리 불가), 홈 있음 (%i)",
     "plPL": "Przedmiot eteryczny (nie może być naprawiony), gniazda (%i)",
     "esMX": "Etéreo (no puede repararse), Engarzado (%i)",
-    "jaJP": "エセリアル（修理不可能）、ソケット（%i）",
+    "jaJP": "イシリアル（修理不可能）、ソケット（%i）",
     "ptBR": "Etéreo (não pode ser reparado), com engastes (%i)",
     "ruRU": "Бесплотный предмет (нельзя ремонтировать), с гнездами (%i)",
     "zhCN": "无形的 (无法修复), 镶孔 (%i)"
@@ -5687,7 +5687,7 @@
     "frFR": "Personnalisé",
     "itIT": "Personalizzato",
     "koKR": "이름 새겨짐",
-    "plPL": "Personalizacja",
+    "plPL": "[fs]Personalizowana[ms]Personalizowany[nl]Personalizowane",
     "esMX": "Personalizado",
     "jaJP": "一点物の",
     "ptBR": "Personalizado",
