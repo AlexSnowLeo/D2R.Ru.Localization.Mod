@@ -2665,7 +2665,7 @@
     "esMX": "/susurrar <*nombredecuenta>, /s <*nombredecuenta>",
     "jaJP": "/whisper <*アカウント名>、/w <*アカウント名>",
     "ptBR": "/whisper <*nomedaconta>, /w <*nomedaconta>",
-    "ruRU": "/whisper <имяаккаунта>, /w <имяаккаунта>",
+    "ruRU": "/whisper <*имяаккаунта>, /w <*имяаккаунта>",
     "zhCN": "/密语<*accountname>, /w<*accountname>"
   },
   {
@@ -2682,7 +2682,7 @@
     "esMX": "/decir <*nombredecuenta>, /d <*nombredecuenta>",
     "jaJP": "/msg <*アカウント名>、/m <*アカウント名>",
     "ptBR": "/msg <*nomedaconta>, /m <*nomedaconta>",
-    "ruRU": "/msg <имяаккаунта>, /m <имяаккаунта>",
+    "ruRU": "/msg <*имяаккаунта>, /m <*имяаккаунта>",
     "zhCN": "/消息<*accountname>, /m<*accountname>"
   },
   {
@@ -2699,7 +2699,7 @@
     "esMX": "/silenciar <*nombredecuenta>",
     "jaJP": "/squelch <*アカウント名>",
     "ptBR": "/squelch <*nomedaconta>",
-    "ruRU": "/squelch <имяаккаунта>",
+    "ruRU": "/squelch <*имяаккаунта>",
     "zhCN": "/屏蔽<*accountname>"
   },
   {
@@ -2716,7 +2716,7 @@
     "esMX": "/ignorar <*nombredecuenta>",
     "jaJP": "/ignore <*アカウント名>",
     "ptBR": "/ignore <*nomedaconta>",
-    "ruRU": "/ignore <имяаккаунта>",
+    "ruRU": "/ignore <*имяаккаунта>",
     "zhCN": "/无视<*accountname>"
   },
   {
@@ -2733,7 +2733,7 @@
     "esMX": "/desilenciar <*nombredecuenta>",
     "jaJP": "/unsquelch <*アカウント名>",
     "ptBR": "/unsquelch <*nomedaconta>",
-    "ruRU": "/unsquelch <имяаккаунта>",
+    "ruRU": "/unsquelch <*имяаккаунта>",
     "zhCN": "/取消屏蔽<*accountname>"
   },
   {
@@ -2750,7 +2750,7 @@
     "esMX": "/darvoz <*nombredecuenta>",
     "jaJP": "/unignore <*アカウント名>",
     "ptBR": "/unignore <*nomedaconta>",
-    "ruRU": "/unignore <имяаккаунта>",
+    "ruRU": "/unignore <*имяаккаунта>",
     "zhCN": "/取消无视<*accountname>"
   },
   {
@@ -2767,7 +2767,7 @@
     "esMX": "/bloquear <*nombredecuenta>",
     "jaJP": "/ban <*アカウント名>",
     "ptBR": "/ban <*nomedaconta>",
-    "ruRU": "/ban <имяаккаунта>",
+    "ruRU": "/ban <*имяаккаунта>",
     "zhCN": "/拉黑<*accountname>"
   },
   {
@@ -2784,7 +2784,7 @@
     "esMX": "/designar <*nombredecuenta>",
     "jaJP": "/designate <*アカウント名>",
     "ptBR": "/designate <*nomedaconta>",
-    "ruRU": "/designate <имяаккаунта>",
+    "ruRU": "/designate <*имяаккаунта>",
     "zhCN": "/任命<*accountname>"
   },
   {
@@ -2801,7 +2801,7 @@
     "esMX": "/expulsar <*nombredecuenta>",
     "jaJP": "/kick <*アカウント名>",
     "ptBR": "/kick <*nomedaconta>",
-    "ruRU": "/kick <имяаккаунта>",
+    "ruRU": "/kick <*имяаккаунта>",
     "zhCN": "/踢人<*accountname>"
   },
   {
@@ -2818,7 +2818,7 @@
     "esMX": "/quienes <*nombredecuenta>, /donde <*nombredecuenta>",
     "jaJP": "/whois <*アカウント名>、/where <*アカウント名>",
     "ptBR": "/whois <*nomedaconta>, /where <*nomedaconta>",
-    "ruRU": "/whois <имяаккаунта>, /where <имяаккаунта>",
+    "ruRU": "/whois <*имяаккаунта>, /where <*имяаккаунта>",
     "zhCN": "/是何人<*accountname>, /地点<*accountname>"
   },
   {
@@ -2835,7 +2835,7 @@
     "esMX": "/dondeesta <*nombredecuenta>",
     "jaJP": "/whereis <*アカウント名>",
     "ptBR": "/whereis <*nomedaconta>",
-    "ruRU": "/whereis <имяаккаунта>",
+    "ruRU": "/whereis <*имяаккаунта>",
     "zhCN": "/在何处<*accountname>"
   },
   {
@@ -2852,7 +2852,7 @@
     "esMX": "/estadisticas <*nombredecuenta> <IDdeprograma>",
     "jaJP": "/stats <*アカウント名> <プログラムID>",
     "ptBR": "/stats <*nomedaconta> <IDprograma>",
-    "ruRU": "/stats <имяаккаунта> <ID>",
+    "ruRU": "/stats <*имяаккаунта> <ID>",
     "zhCN": "/数据<*accountname> <programID>"
   },
   {
@@ -3039,7 +3039,7 @@
     "esMX": "Cuando uno de los comandos descritos a continuación requiera el uso de <nombredecuenta>, utiliza <nombredepersonaje>, <nombredepersonaje@Realm> o <*nombredecuenta>.",
     "jaJP": "以下のコマンドで<アカウント名>の使用が必要な場合は、必ず<キャラクター名>、<キャラクター名@レルム名>、<*アカウント名>のいずれかをお使いください。",
     "ptBR": "Sempre que um comando abaixo solicitar o uso de <nomedaconta>, use <nomedepersonagem>, <nomedepersonagem@Reino> ou <*nomedaconta>.",
-    "ruRU": "Если в команде нужно указать <имяаккаунта>, можете вводить его как <имяперсонажа>, <имяперсонажа@игровой мир> или <имяаккаунта>.",
+    "ruRU": "Если в команде нужно указать <имяаккаунта>, можете вводить его как <имяперсонажа>, <имяперсонажа@игровой мир> или <*имяаккаунта>.",
     "zhCN": "当以下命令中要求使用<账号名>时，请使用<角色名>、<角色名@服务器>或<*账号名>的格式。"
   },
   {
