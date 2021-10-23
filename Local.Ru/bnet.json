@@ -3104,9 +3104,9 @@
     "itIT": "Premi %s per giocare offline",
     "koKR": "%s 버튼을 누르면 오프라인으로 플레이",
     "plPL": "Naciśnij %s, aby grać offline",
-    "esMX": "Press %s to Play Offline",
+    "esMX": "Pulsa %s para jugar de forma local",
     "jaJP": "%sを押すとオフラインでプレイ",
-    "ptBR": "Press %s to Play Offline",
+    "ptBR": "Pressione %s para jogar offline",
     "ruRU": "Нажмите %s, чтобы играть в автономном режиме",
     "zhCN": "按下%s开始离线游戏"
   },
@@ -3121,9 +3121,9 @@
     "itIT": "Stai per giocare offline e perderai la tua posizione in coda.",
     "koKR": "이제 오프라인으로 플레이하며 대기열 등록이 취소됩니다.",
     "plPL": "Zaczynasz grę offline i stracisz swoją pozycję w kolejce.",
-    "esMX": "You will now play offline and will lose your position in the queue.",
+    "esMX": "Ahora jugarás de forma local y perderás tu posición en la cola.",
     "jaJP": "オフラインでプレイします。現在のキューの順番はクリアされます。",
-    "ptBR": "You will now play offline and will lose your position in the queue.",
+    "ptBR": "Você começará a jogar offline e perderá sua posição na fila.",
     "ruRU": "Теперь вы будете играть в автономном режиме и потеряете свою позицию в очереди.",
     "zhCN": "开始以离线模式进行游戏，这样会失去您在队列中的位置。"
   }

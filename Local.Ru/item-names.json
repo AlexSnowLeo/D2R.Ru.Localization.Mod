@@ -1561,7 +1561,7 @@
     "jaJP": "フランベルジュ",
     "ptBR": "[fs]Flambérgia",
     "ruRU": "[ms]фламберг",
-    "zhCN": "蛇形剑"
+    "zhCN": "焰刃剑"
   },
   {
     "id": 2014,
@@ -2525,7 +2525,7 @@
     "frFR": "[mp]Manchons lourds",
     "itIT": "[mp]Bracciali Pesanti",
     "koKR": "헤비 브레이서",
-    "plPL": "[ms]Ciężkie Karwasze",
+    "plPL": "[nl]Ciężkie Karwasze",
     "esMX": "[mp]Brazales pesados",
     "jaJP": "ヘビーブレイサー",
     "ptBR": "[fp]Braçadeiras Pesadas",
@@ -3760,7 +3760,7 @@
     "id": 2146,
     "Key": "9cm",
     "enUS": "Dacian Falx",
-    "zhTW": "達西安鐮刀",
+    "zhTW": "達西安長刀",
     "deDE": "[fs]dakische Sichel",
     "esES": "[fs]Falx dacia",
     "frFR": "[fs]Faux de Dacian",
@@ -9769,7 +9769,7 @@
     "koKR": "라자루스의 첨탑",
     "plPL": "Iglica Lazarusa",
     "esMX": "Pináculo de Lázaro",
-    "jaJP": "ラザラスの長杖",
+    "jaJP": "ラザルスの長杖",
     "ptBR": "Ápice de Lázaro",
     "ruRU": "Шпиль Лазаря",
     "zhCN": "拉扎鲁斯的螺旋杖"
@@ -10214,7 +10214,7 @@
     "jaJP": "トゥイッチスロウ",
     "ptBR": "Contorção",
     "ruRU": "Приступ боли",
-    "zhCN": "抽搐阵痛"
+    "zhCN": "抽动的挣扎"
   },
   {
     "id": 2657,
@@ -11021,7 +11021,7 @@
     "enUS": "Jug",
     "zhTW": "罐子",
     "deDE": "Krug",
-    "esES": "Jarra",
+    "esES": "Jarrón",
     "frFR": "Pichet",
     "itIT": "Brocca",
     "koKR": "항아리",
@@ -13920,7 +13920,7 @@
     "jaJP": "ウォーキング・スティック",
     "ptBR": "[fs]Bengala",
     "ruRU": "[fs]трость",
-    "zhCN": "拐杖"
+    "zhCN": "手杖"
   },
   {
     "id": 20265,
@@ -14311,7 +14311,7 @@
     "jaJP": "スラッシャー",
     "ptBR": "Retalhadores",
     "ruRU": "[pl]рубила",
-    "zhCN": "Slashers"
+    "zhCN": "切割刀"
   },
   {
     "id": 20288,
@@ -14328,7 +14328,7 @@
     "jaJP": "スプレー",
     "ptBR": "Bisel",
     "ruRU": "[ms]срез",
-    "zhCN": "Splay"
+    "zhCN": "锥头刀"
   },
   {
     "id": 20289,
@@ -15331,7 +15331,7 @@
     "jaJP": "デーモンヘッド",
     "ptBR": "[fs]Cabeça Demoníaca",
     "ruRU": "[fs]демоническая маска",
-    "zhCN": "恶魔头"
+    "zhCN": "恶魔面甲"
   },
   {
     "id": 20348,
@@ -15365,7 +15365,7 @@
     "jaJP": "ウィルムハイド",
     "ptBR": "[ms]Couro de Serpe",
     "ruRU": "[fs]змеиная кожа",
-    "zhCN": "龙皮"
+    "zhCN": "龙皮甲"
   },
   {
     "id": 20350,
@@ -19394,7 +19394,7 @@
     "jaJP": "アルマ・ネグラ",
     "ptBR": "Alma Negra",
     "ruRU": "Черная душа",
-    "zhCN": "黑暗之魂"
+    "zhCN": "黑魂"
   },
   {
     "id": 21431,
@@ -20479,7 +20479,7 @@
     "koKR": "무형의 날붙이",
     "plPL": "Eteryczne Ostrze",
     "esMX": "Filo etéreo",
-    "jaJP": "エセリアル・エッジ",
+    "jaJP": "イシリアル・エッジ",
     "ptBR": "Gume Etéreo",
     "ruRU": "Призрачная грань",
     "zhCN": "无形之锋"
@@ -20516,7 +20516,7 @@
     "jaJP": "カーネッジ・リーバー",
     "ptBR": "Arauto da Carnificina",
     "ruRU": "Вестник бойни",
-    "zhCN": "Carnage Leaver"
+    "zhCN": "屠绝"
   },
   {
     "id": 21497,
@@ -20533,7 +20533,7 @@
     "jaJP": "ゴースト・リーチ",
     "ptBR": "Lixívia Fantasma",
     "ruRU": "Призрачная щелочь",
-    "zhCN": "Ghost Leach"
+    "zhCN": "鬼凄"
   },
   {
     "id": 21498,
@@ -20567,7 +20567,7 @@
     "jaJP": "サミュエルの守護者",
     "ptBR": "Protetor de Samuel",
     "ruRU": "Смотритель Самуэля",
-    "zhCN": "Samuel's Caretaker"
+    "zhCN": "塞缪尔的照看者"
   },
   {
     "id": 21500,
@@ -20618,7 +20618,7 @@
     "jaJP": "ライデンズ・クラッチ",
     "ptBR": "Muleta de Raiden",
     "ruRU": "Костыль Райдена",
-    "zhCN": "Raiden's Crutch"
+    "zhCN": "雷登的拐杖"
   },
   {
     "id": 21503,
@@ -20754,7 +20754,7 @@
     "jaJP": "グリマーシュレッド",
     "ptBR": "Trituraluzente",
     "ruRU": "Мерцающий кромсатель",
-    "zhCN": "Glimmershred"
+    "zhCN": "微光裂片"
   },
   {
     "id": 21512,
@@ -21179,7 +21179,7 @@
     "jaJP": "モーザーの祝福されし円",
     "ptBR": "Círculo Abençoado de Moser",
     "ruRU": "Священный круг Мозера",
-    "zhCN": "莫泽的祝福圆盾"
+    "zhCN": "摩西尔的神圣圆环"
   },
   {
     "id": 21537,
@@ -22154,7 +22154,7 @@
     "id": 21594,
     "Key": "Metalgird",
     "enUS": "Metalite's Girth",
-    "zhTW": "梅塔萊特的腰",
+    "zhTW": "梅塔萊特的束腰",
     "deDE": "Metalites Gürtel",
     "esES": "Cincha de Metalite",
     "frFR": "Ceinturon de Métalite",
@@ -22420,7 +22420,7 @@
     "jaJP": "ハイロードの怒り",
     "ptBR": "Ira do Grão-lorde",
     "ruRU": "Гнев верховного лорда",
-    "zhCN": "至高王之怒"
+    "zhCN": "大君之怒"
   },
   {
     "id": 21610,
@@ -22675,7 +22675,7 @@
     "jaJP": "グラディエーターズ・ベイン",
     "ptBR": "Ruína do Gladiador",
     "ruRU": "Погибель гладиатора",
-    "zhCN": "角斗士之祸"
+    "zhCN": "角斗士的祸根"
   },
   {
     "id": 21626,
@@ -22760,7 +22760,7 @@
     "jaJP": "モーザーの祝福されし円",
     "ptBR": "Círculo Abençoado de Moser",
     "ruRU": "Священный круг Мозера",
-    "zhCN": "莫泽的祝福圆盾"
+    "zhCN": "摩西尔的神圣圆环"
   },
   {
     "id": 21631,
@@ -22944,7 +22944,7 @@
     "koKR": "무형의 날붙이",
     "plPL": "Eteryczne Ostrze",
     "esMX": "Filo etéreo",
-    "jaJP": "エセリアル・エッジ",
+    "jaJP": "イシリアル・エッジ",
     "ptBR": "Gume Etéreo",
     "ruRU": "Призрачная грань",
     "zhCN": "无形之锋"
