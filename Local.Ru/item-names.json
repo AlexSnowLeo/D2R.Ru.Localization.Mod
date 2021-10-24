@@ -336,7 +336,7 @@
     "esMX": "[fs]Armadura con anillas",
     "jaJP": "リング・メイル",
     "ptBR": "[fs]Malha Anelada",
-    "ruRU": "[ms]кольчуга",
+    "ruRU": "[fs]кольчуга",
     "zhCN": "环甲"
   },
   {
@@ -13443,7 +13443,7 @@
     "esMX": "[fs]Hoja de balrog",
     "jaJP": "バルログ・ブレイド",
     "ptBR": "[fs]Lâmina de Balrog",
-    "ruRU": "[ms]клинок Балрога",
+    "ruRU": "[ms]клинок балрога",
     "zhCN": "炎魔剑"
   },
   {
@@ -13681,7 +13681,7 @@
     "esMX": "[fs]Lanza de balrog",
     "jaJP": "バルログ・スピア",
     "ptBR": "[fs]Lança de Balrog",
-    "ruRU": "[ns]Балрогово копье",
+    "ruRU": "[ns]копье балрога",
     "zhCN": "炎魔矛"
   },
   {
@@ -15483,7 +15483,7 @@
     "esMX": "[fs]Piel de balrog",
     "jaJP": "バルログ・スキン",
     "ptBR": "[fs]Pele de Balrog",
-    "ruRU": "[fs]шкура Балрога",
+    "ruRU": "[fs]шкура балрога",
     "zhCN": "炎魔皮"
   },
   {
