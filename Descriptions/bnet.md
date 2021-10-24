@@ -20,5 +20,5 @@
 | /whereis <*accountname> | /whereis <названиезаписи> | /whereis <имяаккаунта> |
 | /stats <*accountname> <programID> | /stats <названиезаписи> <ID> | /stats <имяаккаунта> <ID> |
 | Wherever a command below calls for the use of <accountname>, please use either <charactername>, <charactername@Realm>, or <*accountname>. | Если в команде нужно указать <названиезаписи>, можете вводить его как <имяперсонажа>, <имяперсонажа@игровой мир> или <названиезаписи>. | Если в команде нужно указать <имяаккаунта>, можете вводить его как <имяперсонажа>, <имяперсонажа@игровой мир> или <имяаккаунта>. |
-| Press %s to Play Offline | Press %s to Play Offline | Нажмите %s, чтобы играть в автономном режиме |
-| You will now play offline and will lose your position in the queue. | You will now play offline and will lose your position in the queue. | Теперь вы будете играть в автономном режиме и потеряете свою позицию в очереди. |
+| Press %s to Play Offline | Нажмите %s для игры в локальном режиме | Нажмите %s, чтобы играть в автономном режиме |
+| You will now play offline and will lose your position in the queue. | Вы перейдете в локальный режим и утратите свое место в очереди. | Теперь вы будете играть в автономном режиме и потеряете свою позицию в очереди. |

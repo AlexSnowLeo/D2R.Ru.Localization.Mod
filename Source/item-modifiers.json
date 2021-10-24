@@ -5581,7 +5581,7 @@
     "enUS": "%+d to %s %s",
     "zhTW": "%+d 至%s %s",
     "deDE": "%+d zu %s %s",
-    "esES": "%0 a %2 (%1)",
+    "esES": "%+d a %s (%s)",
     "frFR": "%+d à %s %s",
     "itIT": "%+d a %s %s",
     "koKR": "%+d %s %s",
