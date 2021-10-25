@@ -7,18 +7,18 @@
 | Takes you to the battle.net Channel of your choice. If you wanted to enter the technical support Channel, you would simply type /channel technical support. If you attempt to join a Channel that does not exist, you will automatically create that Channel. | Переносит вас в выбранный канал Battle.net. Если вы хотите связаться с техподдержкой, наберите «/channel техническая поддержка». При попытке войти в несуществующий канал вы автоматически создадите его. | Переносит вас в выбранный канал Battle.net. Если вы хотите связаться с техподдержкой, наберите «/channel technical support». При попытке войти в несуществующий канал вы автоматически создадите его. |
 | Bans an account from entering a private Channel and can only be issued by the Channel operator. Use /unban <accountname> to allow accounts banned from a private Channel back into that Channel. | Запрещает пользователю войти в закрытый канал. Эта возможность доступна только оператору канала. Введите /unban <названиезаписи>, чтобы снова позволить заблокированным пользователям войти в канал. | Запрещает пользователю войти в закрытый канал. Эта возможность доступна только оператору канала. Введите /unban <имяаккаунта>, чтобы снова позволить заблокированным пользователям войти в канал. |
 | You have clicked on a link to the Internet. Your web browser will now be launched. Use▄ | Вы щелкнули по интернет-ссылке. Сейчас будет запущен ваш браузер. Используйте | Вы щелкнули по интернет-ссылке. Сейчас будет запущен ваш браузер. Используйте▄ |
-| /whisper <*accountname>, /w <*accountname> | /whisper <названиезаписи>, /w <названиезаписи> | /whisper <имяаккаунта>, /w <имяаккаунта> |
-| /msg <*accountname>, /m <*accountname> | /msg <названиезаписи>, /m <названиезаписи> | /msg <имяаккаунта>, /m <имяаккаунта> |
-| /squelch <*accountname> | /squelch <названиезаписи> | /squelch <имяаккаунта> |
-| /ignore <*accountname> | /ignore <названиезаписи> | /ignore <имяаккаунта> |
-| /unsquelch <*accountname> | /unsquelch <названиезаписи> | /unsquelch <имяаккаунта> |
-| /unignore <*accountname> | /unignore <названиезаписи> | /unignore <имяаккаунта> |
-| /ban <*accountname> | /ban <названиезаписи> | /ban <имяаккаунта> |
-| /designate <*accountname> | /designate <названиезаписи> | /designate <имяаккаунта> |
-| /kick <*accountname> | /kick <названиезаписи> | /kick <имяаккаунта> |
-| /whois <*accountname>, /where <*accountname> | /whois <названиезаписи>, /where <названиезаписи> | /whois <имяаккаунта>, /where <имяаккаунта> |
-| /whereis <*accountname> | /whereis <названиезаписи> | /whereis <имяаккаунта> |
-| /stats <*accountname> <programID> | /stats <названиезаписи> <ID> | /stats <имяаккаунта> <ID> |
-| Wherever a command below calls for the use of <accountname>, please use either <charactername>, <charactername@Realm>, or <*accountname>. | Если в команде нужно указать <названиезаписи>, можете вводить его как <имяперсонажа>, <имяперсонажа@игровой мир> или <названиезаписи>. | Если в команде нужно указать <имяаккаунта>, можете вводить его как <имяперсонажа>, <имяперсонажа@игровой мир> или <имяаккаунта>. |
+| /whisper <*accountname>, /w <*accountname> | /whisper <названиезаписи>, /w <названиезаписи> | /whisper <*имяаккаунта>, /w <*имяаккаунта> |
+| /msg <*accountname>, /m <*accountname> | /msg <названиезаписи>, /m <названиезаписи> | /msg <*имяаккаунта>, /m <*имяаккаунта> |
+| /squelch <*accountname> | /squelch <названиезаписи> | /squelch <*имяаккаунта> |
+| /ignore <*accountname> | /ignore <названиезаписи> | /ignore <*имяаккаунта> |
+| /unsquelch <*accountname> | /unsquelch <названиезаписи> | /unsquelch <*имяаккаунта> |
+| /unignore <*accountname> | /unignore <названиезаписи> | /unignore <*имяаккаунта> |
+| /ban <*accountname> | /ban <названиезаписи> | /ban <*имяаккаунта> |
+| /designate <*accountname> | /designate <названиезаписи> | /designate <*имяаккаунта> |
+| /kick <*accountname> | /kick <названиезаписи> | /kick <*имяаккаунта> |
+| /whois <*accountname>, /where <*accountname> | /whois <названиезаписи>, /where <названиезаписи> | /whois <*имяаккаунта>, /where <*имяаккаунта> |
+| /whereis <*accountname> | /whereis <названиезаписи> | /whereis <*имяаккаунта> |
+| /stats <*accountname> <programID> | /stats <названиезаписи> <ID> | /stats <*имяаккаунта> <ID> |
+| Wherever a command below calls for the use of <accountname>, please use either <charactername>, <charactername@Realm>, or <*accountname>. | Если в команде нужно указать <названиезаписи>, можете вводить его как <имяперсонажа>, <имяперсонажа@игровой мир> или <названиезаписи>. | Если в команде нужно указать <имяаккаунта>, можете вводить его как <имяперсонажа>, <имяперсонажа@игровой мир> или <*имяаккаунта>. |
 | Press %s to Play Offline | Нажмите %s для игры в локальном режиме | Нажмите %s, чтобы играть в автономном режиме |
 | You will now play offline and will lose your position in the queue. | Вы перейдете в локальный режим и утратите свое место в очереди. | Теперь вы будете играть в автономном режиме и потеряете свою позицию в очереди. |
