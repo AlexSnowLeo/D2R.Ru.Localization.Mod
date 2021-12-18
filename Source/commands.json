@@ -2958,6 +2958,23 @@
     "zhCN": "物品拾取已禁用"
   },
   {
+   "id": 25178,
+    "Key": "strFraudWarning",
+    "enUS": "Chat is temporarily unavailable because this account is under review. Please wait a few hours before restarting the application and trying again. The account can continue play in the meantime.",
+    "zhTW": "這個帳號正在接受審查，因此暫時無法使用聊天功能。請在數小時後重新啟動應用程式，然後再試一次。在這段期間，這個帳號依然可以進行遊戲。",
+    "deDE": "Der Chat ist momentan nicht verfügbar, da dieser Account überprüft wird. Bitte warte ein paar Stunden, starte die Anwendung neu und versuch es erneut. Der Account kann in dieser Zeit weiterhin zum Spielen verwendet werden.",
+    "esES": "El chat no está disponible temporalmente porque esta cuenta está siendo investigada. Espera unas horas, reinicia la aplicación e inténtalo de nuevo. Mientras tanto, puedes seguir jugando.",
+    "frFR": "La discussion est temporairement indisponible car ce compte est en cours d’examen. Veuillez patienter quelques heures avant de relancer l’application et de réessayer. En attendant, le compte peut continuer de jouer.",
+    "itIT": "La chat non è al momento disponibile perché questo account sta subendo una revisione. Attendi qualche ora prima di riavviare l'applicazione e riprovare. Nel frattempo, puoi continuare a giocare con questo account.",
+    "koKR": "현재 계정에 대한 검토가 진행 중이므로 일시적으로 채팅을 이용할 수 없습니다. 몇 시간 뒤 프로그램을 재시작한 후 다시 시도해 주시기 바랍니다. 그동안 해당 계정으로 계속 게임을 플레이할 수 있습니다.",
+    "plPL": "Czat jest tymczasowo niedostępny, ponieważ to konto jest w trakcie weryfikacji. Uruchom aplikację za parę godzin i spróbuj ponownie. W międzyczasie możesz nadal grać na tym koncie.",
+    "esMX": "El chat no está disponible temporalmente porque esta cuenta está siendo revisada. Espera unas horas antes de reiniciar la aplicación y volver a intentarlo. Mientras tanto, es posible seguir jugando con la cuenta.",
+    "jaJP": "このアカウントは現在レビュー中のため、チャット機能が一時的に使用できません。このアプリケーションを再起動する前に数時間お待ちいただいてから、再度試してみてください。このアカウントでのゲームは引き続きプレイが可能です。",
+    "ptBR": "O bate-papo está temporariamente indisponível porque esta conta está em análise. Aguarde algumas horas antes de reiniciar o aplicativo e tentar novamente. É possível continuar a jogar com esta conta enquanto isso.",
+    "ruRU": "Функции чата временно недоступны, поскольку производится проверка учетной записи. Подождите несколько часов, прежде чем перезапустить приложение и попробовать еще раз. Пока можно продолжать игру с использованием данной учетной записи.",
+    "zhCN": "此账号目前正在审核过程中，聊天功能暂时无法使用。请等待几小时，重新启动应用程序后再进行尝试。在此期间，此账号仍可正常进行游戏。"
+  },
+  {
     "id": 25990,
     "Key": "D2CommandsHelp",
     "enUS": "help",
