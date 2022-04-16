@@ -2002,7 +2002,7 @@
     "esMX": "de penetración",
     "jaJP": "貫通の",
     "ptBR": "da Furação",
-    "ruRU": "пронзания",
+    "ruRU": "пробивания",
     "zhCN": "刺穿之"
   },
   {
@@ -3719,7 +3719,7 @@
     "esMX": "[ms]sombrío[fs]sombría[mp]sombríos[fp]sombrías",
     "jaJP": "闇の",
     "ptBR": "[ms]Sombrio[mp]Sombrios[fs]Sombria[fp]Sombrias",
-    "ruRU": "[ms]тенистый[fs]тенистая[ns]тенистое[pl]тенистые",
+    "ruRU": "[ms]теневой[fs]теневая[ns]теневое[pl]теневые",
     "zhCN": "暗影"
   },
   {
@@ -3900,7 +3900,7 @@
     "deDE": "Abscheu -",
     "esES": "[fs]de reticencia[ms]de reticencia[fp]de reticencia[mp]de reticencia",
     "frFR": "de répugnance",
-    "itIT": "Abominevole",
+    "itIT": "dell'Avversione",
     "koKR": "지긋지긋한",
     "plPL": "[fs]Niechętna[ms]Niechętny[nl]Niechętne",
     "esMX": "[ms]despreciado[fs]despreciada[mp]despreciados[fp]despreciadas",
@@ -5385,7 +5385,7 @@
     "esMX": "[ms]insólito[fs]insólita[mp]insólitos[fp]insólitas",
     "jaJP": "不可思議な",
     "ptBR": "[ms]Bizarro[mp]Bizarros[fs]Bizarra[fp]Bizarras",
-    "ruRU": "[ms]непонятный[fs]непонятная[ns]непонятное[pl]непонятные",
+    "ruRU": "[ms]потусторонний[fs]потусторонняя[ns]потустороннее[pl]потусторонние",
     "zhCN": "诡异"
   },
   {
@@ -5470,7 +5470,7 @@
     "esMX": "[ms]sombrío[fs]sombría[mp]sombríos[fp]sombrías",
     "jaJP": "シャドウ",
     "ptBR": "[ms]Sombrio[mp]Sombrios[fs]Sombria[fp]Sombrias",
-    "ruRU": "[ms]тенистый[fs]тенистая[ns]тенистое[pl]тенистые",
+    "ruRU": "[ms]теневой[fs]теневая[ns]теневое[pl]теневые",
     "zhCN": "暗影"
   },
   {
@@ -6361,7 +6361,7 @@
     "id": 2759,
     "Key": "grin",
     "enUS": "Grin",
-    "zhTW": "獰笑",
+    "zhTW": "獰笑者",
     "deDE": "[ms]Grinser",
     "esES": "[fs]Mueca",
     "frFR": "[ms]Rictus",
@@ -7279,7 +7279,7 @@
     "id": 2813,
     "Key": "SlimeUM",
     "enUS": "Slime",
-    "zhTW": "黏液",
+    "zhTW": "黏毒",
     "deDE": "[ms]Schleim",
     "esES": "[fs]Babosa",
     "frFR": "[fs]Gelée",
@@ -7500,7 +7500,7 @@
     "id": 2826,
     "Key": "the Axe",
     "enUS": "the Axe",
-    "zhTW": "「銳斧」",
+    "zhTW": "「銳斧使徒」",
     "deDE": "die Axt",
     "esES": "\"el Hacha\"",
     "frFR": "La Hache",
@@ -7619,7 +7619,7 @@
     "id": 2833,
     "Key": "the Slayer",
     "enUS": "the Slayer",
-    "zhTW": "「屠殺者」",
+    "zhTW": "「屠殺使徒」",
     "deDE": "der Schlitzer",
     "esES": "\"el Exterminador\"",
     "frFR": "Le Boucher",
@@ -8666,7 +8666,7 @@
     "esMX": "ojo de águila",
     "jaJP": "鷲の目もつ",
     "ptBR": "[fs]Olho Aquilino[ms]Olho Aquilino[fp]Olho Aquilino[mp]Olho Aquilino",
-    "ruRU": "[ms]снайперский[fs]снайперская[ns]снайперское[pl]снайперские",
+    "ruRU": "[ms]зоркий[fs]зоркая[ns]зоркое[pl]зоркие",
     "zhCN": "鹰目"
   },
   {
@@ -11488,7 +11488,7 @@
     "esMX": "[ms]severo[fs]severa[mp]severos[fp]severas",
     "jaJP": "苛酷なる",
     "ptBR": "[ms]Punitivo[mp]Punitivos[fs]Punitiva[fp]Punitivas",
-    "ruRU": "[ms]наказующий[fs]наказующая[ns]наказующее[pl]наказующие",
+    "ruRU": "[ms]казнящий[fs]казнящая[ns]казнящее[pl]казнящие",
     "zhCN": "惩罚"
   },
   {
@@ -11580,7 +11580,7 @@
     "id": 20896,
     "Key": "Impecable",
     "enUS": "Impeccable",
-    "zhTW": "無暇",
+    "zhTW": "無瑕",
     "deDE": "[ms]unfehlbarer[fs]unfehlbare[ns]unfehlbares[pl]unfehlbare",
     "esES": "[fs]impecable[ms]impecable[fp]impecables[mp]impecables",
     "frFR": "[ms]immaculé[mp]immaculés[fs]immaculée[fp]immaculées",
@@ -11845,7 +11845,7 @@
     "esMX": "[ms]grosero[fs]grosera[mp]groseros[fp]groseras",
     "jaJP": "野蛮なる",
     "ptBR": "[ms]Rude[mp]Rudes[fs]Rude[fp]Rudes",
-    "ruRU": "[ms]топорный[fs]топорная[ns]топорное[pl]топорные",
+    "ruRU": "[ms]примитивный[fs]примитивная[ns]примитивное[pl]примитивные",
     "zhCN": "粗鲁"
   },
   {
@@ -12382,7 +12382,7 @@
     "zhTW": "碎冰甲之",
     "deDE": "der Zitterrüstung",
     "esES": "de Armadura gélida",
-    "frFR": "d’armure de la crainte",
+    "frFR": "d’armure du frisson",
     "itIT": "della Corazza dei Brividi",
     "koKR": "오한 갑옷의",
     "plPL": "Lodowatej Zbroi",
@@ -14344,7 +14344,7 @@
     "esMX": "de despacho",
     "jaJP": "処刑の",
     "ptBR": "do Despacho",
-    "ruRU": "отправки",
+    "ruRU": "депеши",
     "zhCN": "急发之"
   },
   {
