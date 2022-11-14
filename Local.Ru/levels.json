@@ -438,7 +438,7 @@
     "esMX": "Calzada de Kurast",
     "jaJP": "クラスト舗道",
     "ptBR": "Passagem de Kurast",
-    "ruRU": "Курастская дамба",
+    "ruRU": "Дамба Кураста",
     "zhCN": "库拉斯特堤道"
   },
   {
@@ -472,7 +472,7 @@
     "esMX": "Bazar de Kurast",
     "jaJP": "クラスト・バザール",
     "ptBR": "Bazar de Kurast",
-    "ruRU": "Курастский базар",
+    "ruRU": "Базар Кураста",
     "zhCN": "库拉斯特集市"
   },
   {
@@ -523,7 +523,7 @@
     "esMX": "Gran Marisma",
     "jaJP": "大湿原",
     "ptBR": "Grande Charco",
-    "ruRU": "Болотина",
+    "ruRU": "Великое Болото",
     "zhCN": "庞大湿地"
   },
   {
@@ -608,7 +608,7 @@
     "esMX": "Foso Pantanoso",
     "jaJP": "沼地の穴ぐら",
     "ptBR": "Fosso Pantanoso",
-    "ruRU": "Глубокая трясина",
+    "ruRU": "Заболоченная яма",
     "zhCN": "沼泽陷坑"
   },
   {
@@ -1560,7 +1560,7 @@
     "esMX": "Al Foso Pantanoso Nivel 3",
     "jaJP": "沼地の穴ぐら: 第3階層へ",
     "ptBR": "Para o Fosso Pantanoso Nível 3",
-    "ruRU": "На 3-й уровень Глубокой трясины",
+    "ruRU": "На 3-й уровень Заболоченной ямы",
     "zhCN": "前往沼泽陷坑三层"
   },
   {
@@ -1577,7 +1577,7 @@
     "esMX": "Al Foso Pantanoso Nivel 2",
     "jaJP": "沼地の穴ぐら: 第2階層へ",
     "ptBR": "Para o Fosso Pantanoso Nível 2",
-    "ruRU": "На 2-й уровень Глубокой трясины",
+    "ruRU": "На 2-й уровень Заболоченной ямы",
     "zhCN": "前往沼泽陷坑二层"
   },
   {
@@ -1594,7 +1594,7 @@
     "esMX": "Al Foso Pantanoso Nivel 1",
     "jaJP": "沼地の穴ぐら: 第1階層へ",
     "ptBR": "Para o Fosso Pantanoso Nível 1",
-    "ruRU": "На 1-й уровень Глубокой трясины",
+    "ruRU": "На 1-й уровень Заболоченной ямы",
     "zhCN": "前往沼泽陷坑一层"
   },
   {
@@ -1662,7 +1662,7 @@
     "esMX": "A la Calzada de Kurast",
     "jaJP": "クラスト舗道へ",
     "ptBR": "Para a Passagem de Kurast",
-    "ruRU": "На Курастскую дамбу",
+    "ruRU": "На Дамбу Кураста",
     "zhCN": "前往库拉斯特堤道"
   },
   {
@@ -1696,7 +1696,7 @@
     "esMX": "Al Bazar de Kurast",
     "jaJP": "クラスト・バザールへ",
     "ptBR": "Para o Bazar de Kurast",
-    "ruRU": "На Курастский базар",
+    "ruRU": "На Базар Кураста",
     "zhCN": "前往库拉斯特集市"
   },
   {
@@ -1747,7 +1747,7 @@
     "esMX": "A la Gran Marisma",
     "jaJP": "大湿原へ",
     "ptBR": "Para o Grande Charco",
-    "ruRU": "В Болотину",
+    "ruRU": "В Великое Болото",
     "zhCN": "前往庞大湿地"
   },
   {
@@ -2206,7 +2206,7 @@
     "esMX": "A la Ciudad Perdida",
     "jaJP": "失われし都へ",
     "ptBR": "Para a Cidade Perdida",
-    "ruRU": "В затерянный город",
+    "ruRU": "В Затерянный город",
     "zhCN": "前往失落之城"
   },
   {
@@ -3889,7 +3889,7 @@
     "esMX": "Abadón",
     "jaJP": "奈落",
     "ptBR": "Abadom",
-    "ruRU": "Аваддон",
+    "ruRU": "Абаддон",
     "zhCN": "亚巴顿"
   },
   {
@@ -3940,7 +3940,7 @@
     "esMX": "A Abadón",
     "jaJP": "奈落へ",
     "ptBR": "Para Abadom",
-    "ruRU": "В Аваддон",
+    "ruRU": "В Абаддон",
     "zhCN": "前往亚巴顿"
   },
   {
@@ -5946,7 +5946,7 @@
     "esMX": "Entrando a la Gran Marisma",
     "jaJP": "〈大湿原〉",
     "ptBR": "Entrando no Grande Charco",
-    "ruRU": "Болотина",
+    "ruRU": "Великое Болото",
     "zhCN": "进入庞大湿地"
   },
   {
@@ -5997,7 +5997,7 @@
     "esMX": "Entrando al Bazar de Kurast",
     "jaJP": "〈クラスト・バザール〉",
     "ptBR": "Entrando no Bazar de Kurast",
-    "ruRU": "Курастский базар",
+    "ruRU": "Базар Кураста",
     "zhCN": "进入库拉斯特集市"
   },
   {
@@ -6031,7 +6031,7 @@
     "esMX": "Entrando a la Calzada de Kurast",
     "jaJP": "〈クラスト舗道〉",
     "ptBR": "Entrando na Passagem de Kurast",
-    "ruRU": "Курастская дамба",
+    "ruRU": "Дамба Кураста",
     "zhCN": "进入库拉斯特堤道"
   },
   {
@@ -6099,7 +6099,7 @@
     "esMX": "Entrando al Foso Pantanoso Nivel 1",
     "jaJP": "〈沼地の穴ぐら: 第1階層〉",
     "ptBR": "Entrando no Fosso Pantanoso Nível 1",
-    "ruRU": "1-й уровень Глубокой трясины",
+    "ruRU": "1-й уровень Заболоченной ямы",
     "zhCN": "进入沼泽陷坑一层"
   },
   {
@@ -6116,7 +6116,7 @@
     "esMX": "Entrando al Foso Pantanoso Nivel 2",
     "jaJP": "〈沼地の穴ぐら: 第2階層〉",
     "ptBR": "Entrando no Fosso Pantanoso Nível 2",
-    "ruRU": "2-й уровень Глубокой трясины",
+    "ruRU": "2-й уровень Заболоченной ямы",
     "zhCN": "进入沼泽陷坑二层"
   },
   {
@@ -6167,7 +6167,7 @@
     "esMX": "Entrando al Foso Pantanoso Nivel 3",
     "jaJP": "〈沼地の穴ぐら: 第3階層〉",
     "ptBR": "Entrando no Fosso Pantanoso Nível 3",
-    "ruRU": "3-й уровень Глубокой трясины",
+    "ruRU": "3-й уровень Заболоченной ямы",
     "zhCN": "进入沼泽陷坑三层"
   },
   {
@@ -6728,7 +6728,7 @@
     "esMX": "Entrando a Abadón",
     "jaJP": "〈奈落〉",
     "ptBR": "Entrando em Abadom",
-    "ruRU": "Аваддон",
+    "ruRU": "Абаддон",
     "zhCN": "进入亚巴顿"
   },
   {
