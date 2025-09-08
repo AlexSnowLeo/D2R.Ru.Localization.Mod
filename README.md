@@ -4,6 +4,8 @@ Diablo 2 Resurrectred RU localization mod
 Автор мода: **[Alk0zAuruS](https://github.com/Alk0zAuruS)** - aвтор локализации Grim Dawn и некоторых других подобных игр. 
 Администратор дискорд сервера [Grim Dawn по-русски](https://discord.gg/hebNy2cy)
 
+**ВНИМАНИЕ! MPQ версия мода больше поддерживаться не будет, пожалуйста используйте D2RMM версию отсюда, либо установите ее по инструкции с сайта NEXUS MODS: https://www.nexusmods.com/diablo2resurrected/mods/470**
+
 **Для установки мода в игре:**
 
 - Скачайте релиз архива мода: https://github.com/AlexSnowLeo/D2R.Ru.Localization.Mod/releases
