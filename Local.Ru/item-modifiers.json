@@ -5538,7 +5538,7 @@
     "esMX": "Etéreo (no puede repararse)",
     "jaJP": "イシリアル（修理不可能）",
     "ptBR": "Etéreo (não pode ser reparado)",
-    "ruRU": "Эфемерный предмет (нельзя ремонтировать)",
+    "ruRU": "Эфирный предмет (нельзя ремонтировать)",
     "zhCN": "无形的 (无法修复)"
   },
   {
@@ -5623,7 +5623,7 @@
     "esMX": "Etéreo (no puede repararse), Engarzado (%i)",
     "jaJP": "イシリアル（修理不可能）、ソケット（%i）",
     "ptBR": "Etéreo (não pode ser reparado), com engastes (%i)",
-    "ruRU": "Эфемерный предмет (нельзя ремонтировать), с гнездами (%i)",
+    "ruRU": "Эфирный предмет (нельзя ремонтировать), с гнездами (%i)",
     "zhCN": "无形的 (无法修复), 镶孔 (%i)"
   },
   {
