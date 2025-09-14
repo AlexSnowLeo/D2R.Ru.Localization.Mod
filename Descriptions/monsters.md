@@ -1,4 +1,4 @@
-| EN | RU | CHANGED |
+| enUS | ruRU | CHANGED |
 | --- | --- | --- |
 | Dark Lord | Владыка Тьмы | Владыка тьмы |
 | Unraveler | Разматыватель | Расплетатель |

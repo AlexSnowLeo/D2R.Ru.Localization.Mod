@@ -1,4 +1,4 @@
-| EN | RU | CHANGED |
+| enUS | ruRU | CHANGED |
 | --- | --- | --- |
 | Kurast Causeway | Курастская дамба | Дамба Кураста |
 | Kurast Bazaar | Курастский базар | Базар Кураста |

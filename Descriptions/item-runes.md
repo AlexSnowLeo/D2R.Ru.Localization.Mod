@@ -1,4 +1,4 @@
-| EN | RU | CHANGED |
+| enUS | ruRU | CHANGED |
 | --- | --- | --- |
 | Ancients' Pledge | Клятва Древних | Клятва древних |
 | Lore | История | Знание |

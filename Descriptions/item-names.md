@@ -1,4 +1,4 @@
-| EN | RU | CHANGED |
+| enUS | ruRU | CHANGED |
 | --- | --- | --- |
 | Cap | [ms]наголовник | [ms]подшлемник |
 | Ring Mail | [ms]кольчатый доспех | [fs]кольчуга |

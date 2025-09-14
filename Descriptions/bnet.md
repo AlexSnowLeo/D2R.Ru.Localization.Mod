@@ -1,4 +1,4 @@
-| EN | RU | CHANGED |
+| enUS | ruRU | CHANGED |
 | --- | --- | --- |
 | SEND displays your message to everyone in your chat Channel, regardless of what character portrait is currently selected. This button is activated as soon as you start typing in the Text Box. | ОТПРАВИТЬ – посылает ваше сообщение всем участникам канала чата, даже если их портрет не выбран. Эта кнопка активируется, когда вы начинаете печатать сообщение. | ОТПРАВИТЬ – отправляет ваше сообщение всем участникам канала чата, даже если их портрет не выбран. Эта кнопка активируется, когда вы начинаете набирать сообщение. |
 | WHISPER sends your message only to the character that you have selected. This button is activated as soon as you start typing in the Text Box and have another character selected. | ШЕПНУТЬ – посылает ваше сообщение только выбранному персонажу. Эта кнопка активируется, когда вы выбираете персонажа и начинаете печатать сообщение. | ШЕПНУТЬ – посылает ваше сообщение только выбранному персонажу. Эта кнопка активируется, когда вы выбираете персонажа и начинаете набирать сообщение. |

@@ -1,4 +1,4 @@
-| EN | RU | CHANGED |
+| enUS | ruRU | CHANGED |
 | --- | --- | --- |
 | Send an invite to become Battle.net friends with another player. | Отправляет приглашение в друзья другому игроку в Battle.net. | Отправляет предложение дружбы другому игроку в Battle.net. |
 | Failed to send request to %s. | Запрос на добавление в друзья не отправлен игроку %s. | Не удалось отправить запрос на добавление в друзья игроку %s. |
