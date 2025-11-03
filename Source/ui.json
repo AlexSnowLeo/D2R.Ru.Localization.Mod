@@ -32621,5 +32621,39 @@
     "ptBR": "Andar para a esquerda",
     "ruRU": "Влево",
     "zhCN": "左移"
+  },
+  {
+    "id": 27397,
+    "Key": "BatterySaver",
+    "enUS": "Battery Saver",
+    "zhTW": "省電模式",
+    "deDE": "Akkusparen",
+    "esES": "Ahorro de batería",
+    "frFR": "Économiseur de batterie",
+    "itIT": "Risparmio batteria",
+    "koKR": "배터리 절약",
+    "plPL": "Oszczędzanie akumulatora",
+    "esMX": "Ahorro de batería",
+    "jaJP": "バッテリー節約",
+    "ptBR": "Economia de bateria",
+    "ruRU": "Экономия заряда",
+    "zhCN": "省电模式"
+  },
+  {
+    "id": 27398,
+    "Key": "ShowBatteryLevel",
+    "enUS": "Show Battery Level",
+    "zhTW": "省電模式等級",
+    "deDE": "Akkustand anzeigen",
+    "esES": "Mostrar nivel de batería",
+    "frFR": "Affichage du niveau de batterie",
+    "itIT": "Mostra livello batteria",
+    "koKR": "배터리 잔량 표시",
+    "plPL": "Wyświetl poziom naładowania akumulatora",
+    "esMX": "Mostrar nivel de batería",
+    "jaJP": "バッテリー量を表示する",
+    "ptBR": "Mostrar nível da bateria",
+    "ruRU": "Отображение уровня заряда",
+    "zhCN": "显示电量"
   }
 ]
